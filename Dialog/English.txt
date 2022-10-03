@@ -1,0 +1,55 @@
+CelesteNetCollab_0_Lobbies= CelesteNet Collab
+CelesteNetCollab_0_Lobbies_1_Beginner= Beginner Lobby
+CelesteNetCollab_0_Lobbies_2_Intermediate= Intermediate Lobby
+CelesteNetCollab_0_Lobbies_3_Advanced= Advanced Lobby
+CelesteNetCollab_0_Lobbies_4_Expert= Expert Lobby
+CelesteNetCollab_0_Lobbies_5_Grandmaster= Grandmaster Lobby
+
+CelesteNetCollab_1_Beginner_Undercover= Mission Madeline
+CelesteNetCollab_1_Beginner_Undercover_author= by ArvingoPro
+CelesteNetCollab_1_Beginner_Undercover_brief= 
+I see you have made it safely to the site of the key.
+Your goal is to get to the key and swiftly take off without being captured.
+Good luck!
+
+
+CelesteNetCollab_2_Intermediate_CycleBattle= Cycle Battle
+CelesteNetCollab_2_Intermediate_CycleBattle_author= by Cdog
+CelesteNetCollab_2_Intermediate_CycleBattle_collabcredits=
+Map by Cdog
+Playtesting by St-Va1 & Olas
+CelesteNetCollab_2_Intermediate_CycleBattle_collabcreditstags=
+Cycle HELL
+Badeline boss
+
+CelesteNetCollab_2_Intermediate_FeatherFever= Feather Fever
+CelesteNetCollab_2_Intermediate_FeatherFever_author= by ArvingoPro
+
+CelesteNetCollab_2_Intermediate_Stars_of_planet_Gold= Stars of the Golden Planet
+CelesteNetCollab_2_Intermediate_Stars_of_planet_Gold_author= by Zen
+CelesteNetCollab_2_Intermediate_Stars_of_planet_Gold_collabcredits= Gameplay by Zen
+Deco by Zen
+Playtesting by Bit, Cdog, and Mc2save
+CelesteNetCollab_2_Intermediate_Stars_of_planet_Gold_collabcreditstags=
+Wave dashing
+Badeline chase
+Extra jump refills
+
+CelesteNetCollab_2_Intermediate_StormyCity= Stormy City
+CelesteNetCollab_2_Intermediate_StormyCity_author= by TheGamingLlama
+
+
+
+
+
+
+
+
+
+
+
+CelesteNetCollab_4_Expert_UltraLadder= Ultra Ladder
+CelesteNetCollab_4_Expert_UltraLadder_author= by ArvingoPro
+CelesteNetCollab_4_Expert_UltraLadder_collabcredits=
+Map by ArvingoPro
+Deco by paulvonhooverIII
