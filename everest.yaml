@@ -1,3 +1,31 @@
+# Map Dependencies
+# Note: Everest and CollabUtils2 are mandatory for all maps, and are not included below
+
+# Gyms
+# beg_gym: MaxHelpingHand, VivHelper, ExtendedVariantMode, outback
+
+# Lobbies
+# AdvancedLobby: MaxHelpingHand
+
+# Beginner maps
+
+# Intermediate maps
+# CycleBattle: none (well CollabUtils2 but shut)
+# FeatherFever: DJMapHelper, LunaticHelper, CommunalHelper
+# GoldenStar: VivHelper, ExtendedVariantMode, MaxHelpingHand, LunaticHelper, FlaglinesAndSuch
+# StormyCity: FrostHelper, MaxHelpingHand
+
+# Advanced maps
+# boosteryeet: MaxHelpingHand, FlaglinesAndSuch, DJMapHelper, CommunalHelper, LunaticHelper, FactoryHelper, SafeRespawnCrumble, ShroomHelper, VivHelper, CherryHelper
+# PuzzlePieces: MaxHelpingHand, BrokemiaHelper, CherryHelper, FrostHelper, CommunalHelper
+
+# Expert maps
+# CyberSpace: MaxHelpingHand, ContortHelper, FrostHelper, CommunalHelper, PandorasBox, ShroomHelper
+# UltraLadder: IsaGrabBag
+
+# Grandmaster maps
+# Spacious_Acceleration: VivHelper, Anonhelper, PandorasBox, CommunalHelper, ExtendedVariantMode, DJMapHelper
+
 - Name: CelesteNetCollab
   Version: 1.0.0
   Dependencies:
@@ -5,24 +33,26 @@
       Version: 1.0.0
     - Name: CollabUtils2
       Version: 1.6.15
+    - Name: MaxHelpingHand
+      Version: 1.21.11
+    - Name: ExtendedVariantMode
+      Version: 0.23.1
+    - Name: Anonhelper
+      Version: 1.0.9
+    - Name: VivHelper
+      Version: 1.9.12
     - Name: FrostHelper
       Version: 1.37.7
-    - Name: MaxHelpingHand
-      Version: 1.21.10
     - Name: FlaglinesAndSuch
       Version: 1.5.8
     - Name: DJMapHelper
       Version: 1.11.3
-    - Name: ExtendedVariantMode
-      Version: 0.22.27
     - Name: CommunalHelper
       Version: 1.13.6
     - Name: LunaticHelper
       Version: 1.1.1
     - Name: BrokemiaHelper
-      Version: 1.6.0
-    - Name: VivHelper
-      Version: 1.9.12
+      Version: 1.6.1
     - Name: FactoryHelper
       Version: 1.3.3
     - Name: SafeRespawnCrumble
@@ -30,4 +60,16 @@
     - Name: ShroomHelper
       Version: 1.2.3
     - Name: IsaGrabBag
+      Version: 1.6.5
+    - Name: OutbackHelper
       Version: 1.6.2
+    - Name: PandorasBox
+      Version: 1.0.39
+    - Name: SpringCollab2020
+      Version: 1.7.4
+    - Name: Monika's D-Sides
+      Version: 4.35.0
+    - Name: CherryHelper
+      Version: 1.7.0
+    - Name: ContortHelper
+      Version: 1.5.5
