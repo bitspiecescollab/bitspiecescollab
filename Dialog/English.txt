@@ -6,6 +6,17 @@ CelesteNetCollab_0_Lobbies_4_Expert=Expert Lobby
 CelesteNetCollab_0_Lobbies_5_Grandmaster=Grandmaster Lobby
 
 
+# Lobbies
+CelesteNetCollab_0_Gyms_beg_gym=Beginner Gym
+CelesteNetCollab_0_Gyms_beg_gym_dream_jump_title=Dream Jump
+CelesteNetCollab_0_Gyms_beg_gym_dream_grab_title=Dream Grab
+CelesteNetCollab_0_Gyms_beg_gym_fast_bubble_title=Fast Bubble
+CelesteNetCollab_0_Gyms_beg_gym_fastfall_title=Fastfalling
+CelesteNetCollab_0_Gyms_beg_gym_transdash_title=Transition{n}Dashing
+
+CelesteNetCollab_0_Gyms_int_gym=Intermediate Gym
+CelesteNetCollab_0_Gyms_int_gym_dream_jump_title=Dream Jump
+
 # Beginner
 
 CelesteNetCollab_1_Beginner_Undercover= Mission Madeline
@@ -48,7 +59,7 @@ CelesteNetCollab_2_Intermediate_StormyCity_author= by TheGamingLlama
 
 # Advanced
 
-CelesteNetCollab_3_Advanced_boosteryeet=Bubble Yeet (TODO: CHANGE THIS)
+CelesteNetCollab_3_Advanced_boosteryeet=Bubble Yeet
 CelesteNetCollab_3_Advanced_boosteryeet_author=by bit
 CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
 Map by bit
@@ -58,7 +69,10 @@ CelesteNetCollab_3_Advanced_boosteryeet_collabcreditstags=
 Mid-air Supers
 Reverse Dashing
 Bubble Dashing
-
+Extra Jumps
+CelesteNetCollab_3_Advanced_boosteryeet_b2_how=
+[madeline left normal]
+How did I get here lol
 
 
 # Expert
