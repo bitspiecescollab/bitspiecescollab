@@ -6,7 +6,8 @@ CelesteNetCollab_0_Lobbies_4_Expert=Expert Lobby
 CelesteNetCollab_0_Lobbies_5_Grandmaster=Grandmaster Lobby
 
 
-# Lobbies
+# Gyms
+
 CelesteNetCollab_0_Gyms_beg_gym=Beginner Gym
 CelesteNetCollab_0_Gyms_beg_gym_dream_jump_title=Dream Jump
 CelesteNetCollab_0_Gyms_beg_gym_dream_grab_title=Dream Grab
@@ -17,6 +18,7 @@ CelesteNetCollab_0_Gyms_beg_gym_transdash_title=Transition{n}Dashing
 CelesteNetCollab_0_Gyms_int_gym=Intermediate Gym
 CelesteNetCollab_0_Gyms_int_gym_dream_jump_title=Dream Jump
 
+
 # Beginner
 
 CelesteNetCollab_1_Beginner_Undercover= Mission Madeline
@@ -25,7 +27,6 @@ CelesteNetCollab_1_Beginner_Undercover_brief=
 I see you have made it safely to the site of the key.
 Your goal is to get to the key and swiftly take off without being captured.
 Good luck!
-
 
 
 # Intermediate
@@ -56,7 +57,6 @@ CelesteNetCollab_2_Intermediate_StormyCity= Stormy City
 CelesteNetCollab_2_Intermediate_StormyCity_author= by TheGamingLlama
 
 
-
 # Advanced
 
 CelesteNetCollab_3_Advanced_boosteryeet=Bubble Yeet
@@ -78,6 +78,7 @@ CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
 # CelesteNetCollab_3_Advanced_boosteryeet_author=by
 # CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
 
+
 # Expert
 
 CelesteNetCollab_4_Expert_UltraLadder= Ultra Ladder
@@ -86,6 +87,27 @@ CelesteNetCollab_4_Expert_UltraLadder_collabcredits=
 Map by ArvingoPro
 Deco by paulvonhooverIII
 
+CelesteNetCollab_4_Expert_Cyber_Space=Cyber Space
+CelesteNetCollab_4_Expert_Cyber_Space_author=by enber
+CelesteNetCollab_4_Expert_Cyber_Space_collabcredits=
+Map by enber
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_4_Expert_Cyber_Space_Acceleration_collabcreditstags=
+Tech 1
+Tech 2
+Tech 3
 
 
 # Grandmaster
+
+CelesteNetCollab_5_Grandmaster_Spacious_Acceleration=Spacious Acceleration
+CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_author=by paulio
+CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_collabcredits=
+Map by paulio
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
+Tech 1
+Tech 2
+Tech 3
