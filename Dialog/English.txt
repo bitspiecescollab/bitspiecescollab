@@ -55,6 +55,11 @@ Extra jump refills
 
 CelesteNetCollab_2_Intermediate_StormyCity= Stormy City
 CelesteNetCollab_2_Intermediate_StormyCity_author= by TheGamingLlama
+CelesteNetCollab_2_Intermediate_StormyCity_collabcredits= Map by TheGamingLlama
+Playtesting by ST-Va1, Guynamedpie and arti
+CelesteNetCollab_2_Intermediate_StormyCity_collabcreditstags=
+Hyperdashes
+Jelly Regrabs
 
 
 # Advanced
