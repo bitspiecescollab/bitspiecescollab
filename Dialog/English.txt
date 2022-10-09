@@ -74,6 +74,9 @@ CelesteNetCollab_3_Advanced_boosteryeet_b2_how=
 [madeline left normal]
 How did I get here lol
 
+CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
+# CelesteNetCollab_3_Advanced_boosteryeet_author=by
+# CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
 
 # Expert
 
