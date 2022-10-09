@@ -302,5 +302,6 @@
 
   <Tileset id="n" copy="z" path="scifi"/>
 
-  <Tileset id="r" copy="z" path="CelesteNetCollab/IntermediateLobby/CaveCliffsideCnet" sound="8"/>
+  <Tileset id="r" copy="z" path="CelesteNetCollab/IntermediateLobby/CaveCliffsideCnet" sound="37"/>
+  <Tileset id="F" copy="y" path="CelesteNetCollab/IntermediateLobby/CityStone" sound="15"/>
 </Data>
