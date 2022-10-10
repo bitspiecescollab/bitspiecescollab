@@ -83,7 +83,8 @@ CelesteNetCollab_3_Advanced_boosteryeet_collabcreditstags=
 Mid-air Supers
 Reverse Dashing
 Bubble Dashing
-Extra Jumps
+Bunny Hops
+Block Boosts
 CelesteNetCollab_3_Advanced_boosteryeet_b2_how=
 [madeline left normal]
 How did I get here lol
