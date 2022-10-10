@@ -21,6 +21,14 @@ CelesteNetCollab_0_Gyms_int_gym_dream_jump_title=Dream Jump
 
 # Beginner
 
+CelesteNetCollab_1_Beginner_Constellation_Core=Constellation Core
+CelesteNetCollab_1_Beginner_Constellation_Core_author=by Zen
+CelesteNetCollab_1_Beginner_Constellation_Core_collabcredits=
+Map & Decor by Zen
+Playtesting by bit, Arti, Guynamedpie
+CelesteNetCollab_1_Beginner_Constellation_Core_collabcreditstags=
+Dream Jumping
+
 CelesteNetCollab_1_Beginner_Undercover= Mission Madeline
 CelesteNetCollab_1_Beginner_Undercover_author= by ArvingoPro
 CelesteNetCollab_1_Beginner_Undercover_brief=
