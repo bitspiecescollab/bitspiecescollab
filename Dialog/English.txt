@@ -5,6 +5,7 @@ CelesteNetCollab_0_Lobbies_3_Advanced=Advanced Lobby
 CelesteNetCollab_0_Lobbies_4_Expert=Expert Lobby
 CelesteNetCollab_0_Lobbies_5_Grandmaster=Grandmaster Lobby
 
+poem_CelesteNetCollab_0_Lobbies_69_debug_A=Pog poggers
 
 # Gyms
 
