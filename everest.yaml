@@ -24,6 +24,7 @@
 # UltraLadder: IsaGrabBag
 
 # Grandmaster maps
+# Flying Fortress: FrostHelper, VivHelper, CommunalHelper, ExtendedVariantMode, MaxHelpingHand, BrokemiaHelper, LunaticHelper, VortexHelper, ContortHelper
 # Spacious_Acceleration: VivHelper, Anonhelper, PandorasBox, CommunalHelper, ExtendedVariantMode, DJMapHelper
 
 - Name: CelesteNetCollab
@@ -65,11 +66,14 @@
       Version: 1.6.2
     - Name: PandorasBox
       Version: 1.0.39
-    - Name: SpringCollab2020
-      Version: 1.7.4
-    - Name: Monika's D-Sides
-      Version: 4.35.0
+    # some map is using these as a dependency *somewhere*
+    # - Name: SpringCollab2020
+    #   Version: 1.7.4
+    # - Name: Monika's D-Sides
+    #   Version: 4.35.0
     - Name: CherryHelper
       Version: 1.7.0
     - Name: ContortHelper
       Version: 1.5.5
+    - Name: VortexHelper
+      Version: 1.2.9

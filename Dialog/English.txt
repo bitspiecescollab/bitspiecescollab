@@ -69,7 +69,7 @@ CelesteNetCollab_3_Advanced_boosteryeet_author=by bit
 CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
 Map by bit
 Decor by ...?
-Playtesting by Guynamedpie & paulio
+Playtesting by Guynamedpie, arti & paulio
 CelesteNetCollab_3_Advanced_boosteryeet_collabcreditstags=
 Mid-air Supers
 Reverse Dashing
@@ -98,13 +98,24 @@ CelesteNetCollab_4_Expert_Cyber_Space_collabcredits=
 Map by enber
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_4_Expert_Cyber_Space_Acceleration_collabcreditstags=
+CelesteNetCollab_4_Expert_Cyber_Space_collabcreditstags=
 Tech 1
 Tech 2
 Tech 3
 
 
 # Grandmaster
+
+CelesteNetCollab_5_Grandmaster_Flying_Fortress=Flying Fortress
+CelesteNetCollab_5_Grandmaster_Flying_Fortress_author=by paulio
+CelesteNetCollab_5_Grandmaster_Flying_Fortress_collabcredits=
+Map by paulio
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_5_Grandmaster_Flying_Fortress_collabcreditstags=
+Tech 1
+Tech 2
+Tech 3
 
 CelesteNetCollab_5_Grandmaster_Spacious_Acceleration=Spacious Acceleration
 CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_author=by paulio
