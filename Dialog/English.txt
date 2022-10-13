@@ -143,3 +143,21 @@ CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
 Tech 1
 Tech 2
 Tech 3
+
+#Dialogue real
+CelesteNetCollab_Baddy_Jump_Map=
+[MADELINE left angry]
+Where have you put me now?
+[BADELINE right scoff]
+Sorry =) {n}But I can't help you now
+
+{trigger 1 Badeline Vanishes}
+
+[MADELINE left sad]
+.{0.2}?
+CelesteNetCollab_Big_Saddy_Jump_Map=
+[MADELINE left determinedclosed]
+I {0.5}don't need {~}her{/~}.
+CelesteNetCollab_Big_Saddy_2_Jump_Map=
+[MADELINE left determinedclosed]
+{+MADELINE} {0.8}you {0.1}can do this...
