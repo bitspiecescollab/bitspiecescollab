@@ -80,7 +80,8 @@ CelesteNetCollab_3_Advanced_boosteryeet_author=by bit
 CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
 Map by bit
 Decor by ...?
-Playtesting by Guynamedpie, arti & paulio
+Playtesting by Guynamedpie, arti,
+paulio & St-Val1
 CelesteNetCollab_3_Advanced_boosteryeet_collabcreditstags=
 Mid-air Supers
 Reverse Dashing
