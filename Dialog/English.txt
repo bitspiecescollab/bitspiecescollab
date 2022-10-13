@@ -42,6 +42,8 @@ Good luck!
 
 # Intermediate
 
+CelesteNetCollab_2_Intermediate_Ciudad=Ciudad
+
 CelesteNetCollab_2_Intermediate_CycleBattle= Cycle Battle
 CelesteNetCollab_2_Intermediate_CycleBattle_author= by Cdog
 CelesteNetCollab_2_Intermediate_CycleBattle_collabcredits=

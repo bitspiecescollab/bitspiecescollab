@@ -10,6 +10,7 @@
 # Beginner maps
 
 # Intermediate maps
+# Ciudad: JungleHelper, XaphanHelper, SorbetHelper, EmHelper, OutbackHelper
 # CycleBattle: none (well CollabUtils2 but shut)
 # FeatherFever: DJMapHelper, LunaticHelper, CommunalHelper
 # GoldenStar: VivHelper, ExtendedVariantMode, MaxHelpingHand, LunaticHelper, FlaglinesAndSuch
@@ -77,3 +78,11 @@
       Version: 1.5.5
     - Name: VortexHelper
       Version: 1.2.9
+    - Name: JungleHelper
+      Version: 1.1.2
+    - Name: XaphanHelper
+      Version: 1.0.48
+    - Name: SorbetHelper
+      Version: 1.0.0
+    - Name: EmHelper
+      Version: 1.2.1
