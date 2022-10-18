@@ -11,7 +11,7 @@ poem_CelesteNetCollab_0_Lobbies_69_debug_A=Pog poggers
 
 CelesteNetCollab_0_Gyms_berry_side=Berryside
 
-CelesteNetCollab_0_Gyms_beg_gym=Beginner Gym
+CelesteNetCollab_0_Gyms_beginner_gym=Beginner Gym
 CelesteNetCollab_0_Gyms_beginner_dream_jump=Dream Jump
 CelesteNetCollab_0_Gyms_beginner_dream_jump_dialog=
 [MADELINE left angry]
@@ -27,8 +27,14 @@ CelesteNetCollab_0_Gyms_beginner_bunny_hop=Bunny Hop
 CelesteNetCollab_0_Gyms_beginner_fastfall=Fastfalling
 CelesteNetCollab_0_Gyms_beginner_transdash=Transition Dash
 
-CelesteNetCollab_0_Gyms_int_gym=Intermediate Gym
-CelesteNetCollab_0_Gyms_int_gym_dream_jump=Dream Jump
+CelesteNetCollab_0_Gyms_intermediate_gym=Intermediate Gym
+CelesteNetCollab_0_Gyms_intermediate_dream_jump=Dream Jump
+CelesteNetCollab_0_Gyms_intermediate_wave=Wavedashing
+CelesteNetCollab_0_Gyms_intermediate_super=Superdashing
+CelesteNetCollab_0_Gyms_intermediate_hyper=Hyperdashing
+CelesteNetCollab_0_Gyms_intermediate_wallbounce=Wallbounce
+CelesteNetCollab_0_Gyms_intermediate_bumper_boost=Bumper Boost{n}Puffer Boost
+CelesteNetCollab_0_Gyms_intermediate_throwable_vator=Jelly Boost{n}Theo Boost
 
 
 # Beginner
