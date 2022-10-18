@@ -2,7 +2,7 @@
 # Note: Everest and CollabUtils2 are mandatory for all maps, and are not included below
 
 # Gyms
-# beg_gym: MaxHelpingHand, VivHelper, ExtendedVariantMode, outback
+# Beginner_Gym: MaxHelpingHand, VivHelper, ExtendedVariantMode, outback, LuaCutscenes
 
 # Lobbies
 # AdvancedLobby: MaxHelpingHand
@@ -17,7 +17,7 @@
 # StormyCity: FrostHelper, MaxHelpingHand
 
 # Advanced maps
-# boosteryeet: MaxHelpingHand, FlaglinesAndSuch, DJMapHelper, CommunalHelper, LunaticHelper, FactoryHelper, SafeRespawnCrumble, ShroomHelper, VivHelper, CherryHelper
+# boosteryeet: MaxHelpingHand, FlaglinesAndSuch, DJMapHelper, CommunalHelper, LunaticHelper, FactoryHelper, SafeRespawnCrumble, ShroomHelper, VivHelper, CherryHelper, Anonhelper
 # PuzzlePieces: MaxHelpingHand, BrokemiaHelper, CherryHelper, FrostHelper, CommunalHelper
 
 # Expert maps
