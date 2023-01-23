@@ -146,6 +146,17 @@ Tech 1
 Tech 2
 Tech 3
 
+CelesteNetCollab_4_Expert_Mythril_Mine=Mythril Mine
+CelesteNetCollab_4_Expert_Mythril_Mine_author=by Jess
+CelesteNetCollab_4_Expert_Mythril_Mine_collabcredits=
+Map by Jess
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_4_Expert_Mythril_Mine_collabcreditstags=
+Dream Hypers
+Ultra Dashing
+Mid-air Supers
+
 
 # Grandmaster
 
