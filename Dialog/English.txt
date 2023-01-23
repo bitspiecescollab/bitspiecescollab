@@ -157,6 +157,17 @@ Dream Hypers
 Ultra Dashing
 Mid-air Supers
 
+CelesteNetCollab_4_Expert_Crystal_Peak=Crystal Peak
+CelesteNetCollab_4_Expert_Crystal_Peak_author=by Youcef
+CelesteNetCollab_4_Expert_Crystal_Peak_collabcredits=
+Map by Youcef
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_4_Expert_Crystal_Peak_collabcreditstags=
+Dream Hypers
+Ultra Dashing
+Mid-air Supers
+
 
 # Grandmaster
 
