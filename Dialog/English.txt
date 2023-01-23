@@ -54,6 +54,16 @@ I see you have made it safely to the site of the key.
 Your goal is to get to the key and swiftly take off without being captured.
 Good luck!
 
+CelesteNetCollab_1_Beginner_Myraid_Nebulae=Myraid Nebulae
+CelesteNetCollab_1_Beginner_Myraid_Nebulae_author=by TheGamingLlama
+CelesteNetCollab_1_Beginner_Myraid_Nebulae_collabcredits=
+Map by TheGamingLlama
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_1_Beginner_Myraid_Nebulae_collabcreditstags=
+???
+???
+???
 
 # Intermediate
 
