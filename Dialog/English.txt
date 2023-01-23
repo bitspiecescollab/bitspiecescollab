@@ -99,6 +99,15 @@ CelesteNetCollab_2_Intermediate_StormyCity_collabcreditstags=
 Hyperdashes
 Jelly Regrabs
 
+CelesteNetCollab_2_Intermediate_Path_Of_The_Stars=Path of the Stars
+CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_author=by ender
+CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcredits=Map & deco by ender
+Playtesting by ???
+CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcreditstags=
+Wavedashing
+Wall-bouncing
+Dream Redirects
+
 
 # Advanced
 
