@@ -141,10 +141,15 @@ sus
 [madeline right panic]
 getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
-# CelesteNetCollab_3_Advanced_boosteryeet_author=by
-# CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
+CelesteNetCollab_3_Advanced_cumulus_heights=Cumulus Heights
+CelesteNetCollab_3_Advanced_cumulus_heights_author=by bit
+# CelesteNetCollab_3_Advanced_cumulus_heights_collabcredits=
+# CelesteNetCollab_3_Advanced_cumulus_heights_collabcreditstags=
 
+CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
+# CelesteNetCollab_3_Advanced_PuzzlePieces_author=by
+# CelesteNetCollab_3_Advanced_PuzzlePieces_collabcredits=
+# CelesteNetCollab_3_Advanced_PuzzlePieces_collabcreditstags=
 
 # Expert
 
