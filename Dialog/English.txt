@@ -9,6 +9,8 @@ poem_CelesteNetCollab_0_Lobbies_69_debug_A=Pog poggers
 
 # Gyms
 
+CelesteNetCollab_0_Gyms_gym=Gym
+
 CelesteNetCollab_0_Gyms_berry_side=Berryside
 
 CelesteNetCollab_0_Gyms_beginner_gym=Beginner Gym
