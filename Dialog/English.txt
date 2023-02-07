@@ -153,11 +153,26 @@ CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
 
 # Expert
 
-CelesteNetCollab_4_Expert_UltraLadder= Ultra Ladder
-CelesteNetCollab_4_Expert_UltraLadder_author= by ArvingoPro
-CelesteNetCollab_4_Expert_UltraLadder_collabcredits=
-Map by ArvingoPro
-Deco by paulvonhooverIII
+CelesteNetCollab_4_Expert_space_jam_on_toast=Space Jam with Toast
+CelesteNetCollab_4_Expert_space_jam_on_toast_author=by bit
+CelesteNetCollab_4_Expert_space_jam_on_toast_collabcredits=
+Map by bit
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_4_Expert_space_jam_on_toast_collabcreditstags=
+Dream Hypers
+Dream Supers
+
+CelesteNetCollab_4_Expert_Crystal_Peak=Crystal Peak
+CelesteNetCollab_4_Expert_Crystal_Peak_author=by Youcef
+CelesteNetCollab_4_Expert_Crystal_Peak_collabcredits=
+Map by Youcef
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_4_Expert_Crystal_Peak_collabcreditstags=
+Dream Hypers
+Ultra Dashing
+Mid-air Supers
 
 CelesteNetCollab_4_Expert_Cyber_Space=Cyber Space
 CelesteNetCollab_4_Expert_Cyber_Space_author=by enber
@@ -166,9 +181,9 @@ Map by enber
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_4_Expert_Cyber_Space_collabcreditstags=
-Tech 1
-Tech 2
-Tech 3
+Ultra Dashing
+Corner Boosts
+Mid-air Supers
 
 CelesteNetCollab_4_Expert_Mythril_Mine=Mythril Mine
 CelesteNetCollab_4_Expert_Mythril_Mine_author=by Jess
@@ -181,16 +196,15 @@ Dream Hypers
 Ultra Dashing
 Mid-air Supers
 
-CelesteNetCollab_4_Expert_Crystal_Peak=Crystal Peak
-CelesteNetCollab_4_Expert_Crystal_Peak_author=by Youcef
-CelesteNetCollab_4_Expert_Crystal_Peak_collabcredits=
-Map by Youcef
-Decor by ???
-Playtesting by ???
-CelesteNetCollab_4_Expert_Crystal_Peak_collabcreditstags=
-Dream Hypers
-Ultra Dashing
-Mid-air Supers
+CelesteNetCollab_4_Expert_UltraLadder= Ultra Ladder
+CelesteNetCollab_4_Expert_UltraLadder_author= by ArvingoPro
+CelesteNetCollab_4_Expert_UltraLadder_collabcredits=
+Map by ArvingoPro
+Deco by paulvonhooverIII
+CelesteNetCollab_4_Expert_Mythril_Mine_collabcreditstags=
+???
+???
+???
 
 
 # Grandmaster
