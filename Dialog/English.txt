@@ -55,6 +55,13 @@ CelesteNetCollab_1_Beginner_Undercover_brief=
 I see you have made it safely to the site of the key.
 Your goal is to get to the key and swiftly take off without being captured.
 Good luck!
+CelesteNetCollab_1_Beginner_Undercover_collabcredits=
+Map by ArvingoPro
+Playtesting by ???
+CelesteNetCollab_1_Beginner_Undercover_collabcreditstags=
+???
+???
+???
 
 CelesteNetCollab_1_Beginner_Myraid_Nebulae=Myraid Nebulae
 CelesteNetCollab_1_Beginner_Myraid_Nebulae_author=by TheGamingLlama
@@ -79,9 +86,17 @@ Playtesting by St-Va1 & Olas
 CelesteNetCollab_2_Intermediate_CycleBattle_collabcreditstags=
 Cycle HELL
 Badeline boss
+# todo: does this map need wavedashing or such?
 
 CelesteNetCollab_2_Intermediate_FeatherFever= Feather Fever
 CelesteNetCollab_2_Intermediate_FeatherFever_author= by ArvingoPro
+CelesteNetCollab_2_Intermediate_FeatherFever_collabcredits=
+Map by ArvingoPro
+Playtesting by ???
+CelesteNetCollab_2_Intermediate_FeatherFever_collabcreditstags=
+???
+???
+???
 
 CelesteNetCollab_2_Intermediate_GoldenStar= Stars of the Golden Planet
 CelesteNetCollab_2_Intermediate_GoldenStar_author= by Zen
@@ -89,13 +104,14 @@ CelesteNetCollab_2_Intermediate_GoldenStar_collabcredits= Gameplay by Zen
 Deco by Zen
 Playtesting by bit, Cdog, and Mc2save
 CelesteNetCollab_2_Intermediate_GoldenStar_collabcreditstags=
-Wave dashing
-Badeline chase
+Wavedashing
+Wall bounces
 Extra jump refills
 
 CelesteNetCollab_2_Intermediate_StormyCity= Stormy City
 CelesteNetCollab_2_Intermediate_StormyCity_author= by TheGamingLlama
-CelesteNetCollab_2_Intermediate_StormyCity_collabcredits= Map by TheGamingLlama
+CelesteNetCollab_2_Intermediate_StormyCity_collabcredits=
+Map by TheGamingLlama
 Playtesting by ST-Va1, Guynamedpie and arti
 CelesteNetCollab_2_Intermediate_StormyCity_collabcreditstags=
 Hyperdashes
@@ -103,12 +119,13 @@ Jelly Regrabs
 
 CelesteNetCollab_2_Intermediate_Path_Of_The_Stars=Path of the Stars
 CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_author=by ender
-CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcredits=Map & deco by ender
+CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcredits=
+Map & deco by ender
 Playtesting by ???
 CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcreditstags=
 Wavedashing
-Wall-bouncing
-Dream Redirects
+Wall bounces
+Dream redirects
 
 
 # Advanced
@@ -121,11 +138,10 @@ Decor by ...?
 Playtesting by Guynamedpie, arti,
 paulio & St-Val1
 CelesteNetCollab_3_Advanced_boosteryeet_collabcreditstags=
-Mid-air Supers
-Reverse Dashing
-Bubble Dashing
-Bunny Hops
-Block Boosts
+Mid-air supers
+Reverse dashing
+Bubble dashing
+Block boosts
 CelesteNetCollab_3_Advanced_boosteryeet_b2_how=
 [madeline left normal]
 How did I get here lol
@@ -143,8 +159,13 @@ getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getou
 
 CelesteNetCollab_3_Advanced_cumulus_heights=Cumulus Heights
 CelesteNetCollab_3_Advanced_cumulus_heights_author=by bit
-# CelesteNetCollab_3_Advanced_cumulus_heights_collabcredits=
-# CelesteNetCollab_3_Advanced_cumulus_heights_collabcreditstags=
+CelesteNetCollab_3_Advanced_cumulus_heights_collabcredits=
+Map by bit
+Decor by ???
+Playtesting by ???
+CelesteNetCollab_3_Advanced_cumulus_heights_collabcreditstags=
+Cloud dashing
+Neutral jellyfish boost
 
 CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
 # CelesteNetCollab_3_Advanced_PuzzlePieces_author=by
@@ -160,8 +181,8 @@ Map by bit
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_4_Expert_space_jam_on_toast_collabcreditstags=
-Dream Hypers
-Dream Supers
+Dream hypers
+Dream supers
 
 CelesteNetCollab_4_Expert_Crystal_Peak=Crystal Peak
 CelesteNetCollab_4_Expert_Crystal_Peak_author=by Youcef
@@ -170,9 +191,9 @@ Map by Youcef
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_4_Expert_Crystal_Peak_collabcreditstags=
-Dream Hypers
-Ultra Dashing
-Mid-air Supers
+Dream hypers
+Ultradashing
+Mid-air supers
 
 CelesteNetCollab_4_Expert_Cyber_Space=Cyber Space
 CelesteNetCollab_4_Expert_Cyber_Space_author=by enber
@@ -181,9 +202,9 @@ Map by enber
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_4_Expert_Cyber_Space_collabcreditstags=
-Ultra Dashing
-Corner Boosts
-Mid-air Supers
+Ultradashing
+Corner boosts
+Mid-air supers
 
 CelesteNetCollab_4_Expert_Mythril_Mine=Mythril Mine
 CelesteNetCollab_4_Expert_Mythril_Mine_author=by Jess
@@ -192,9 +213,9 @@ Map by Jess
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_4_Expert_Mythril_Mine_collabcreditstags=
-Dream Hypers
-Ultra Dashing
-Mid-air Supers
+Dream hypers
+Ultradashing
+Mid-air supers
 
 CelesteNetCollab_4_Expert_UltraLadder= Ultra Ladder
 CelesteNetCollab_4_Expert_UltraLadder_author= by ArvingoPro
@@ -216,9 +237,9 @@ Map by paulio
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_5_Grandmaster_Flying_Fortress_collabcreditstags=
-Tech 1
-Tech 2
-Tech 3
+???
+???
+???
 
 CelesteNetCollab_5_Grandmaster_Spacious_Acceleration=Spacious Acceleration
 CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_author=by paulio
@@ -227,10 +248,11 @@ Map by paulio
 Decor by ???
 Playtesting by ???
 CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
-Tech 1
-Tech 2
-Tech 3
+???
+???
+???
 
+# todo: what fucking map needs this dialogue???
 #Dialogue real
 CelesteNetCollab_Baddy_Jump_Map=
 [MADELINE left angry]
