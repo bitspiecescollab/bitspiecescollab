@@ -31,7 +31,7 @@
 # Flying Fortress: FrostHelper, VivHelper, CommunalHelper, ExtendedVariantMode, MaxHelpingHand, BrokemiaHelper, LunaticHelper, VortexHelper, ContortHelper
 # Spacious_Acceleration: VivHelper, Anonhelper, PandorasBox, CommunalHelper, ExtendedVariantMode, DJMapHelper
 
-- Name: CelesteNetCollab
+- Name: bitspiecescollab
   Version: 1.0.0
   Dependencies:
     - Name: Everest

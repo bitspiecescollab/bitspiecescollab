@@ -1,128 +1,154 @@
-CelesteNetCollab_0_Lobbies=CelesteNet Collab
-CelesteNetCollab_0_Lobbies_1_Beginner=Beginner Lobby
-CelesteNetCollab_0_Lobbies_2_Intermediate=Intermediate Lobby
-CelesteNetCollab_0_Lobbies_3_Advanced=Advanced Lobby
-CelesteNetCollab_0_Lobbies_4_Expert=Expert Lobby
-CelesteNetCollab_0_Lobbies_5_Grandmaster=Grandmaster Lobby
+bitspiecescollab_0_Lobbies=Bits & Pieces Collab
+bitspiecescollab_0_Lobbies_1_Beginner=Beginner Lobby
+bitspiecescollab_0_Lobbies_2_Intermediate=Intermediate Lobby
+bitspiecescollab_0_Lobbies_3_Advanced=Advanced Lobby
+bitspiecescollab_0_Lobbies_4_Expert=Expert Lobby
+bitspiecescollab_0_Lobbies_5_Grandmaster=Grandmaster Lobby
 
-poem_CelesteNetCollab_0_Lobbies_69_debug_A=Pog poggers
+poem_bitspiecescollab_0_Lobbies_69_debug_A=Pog poggers
 
 # Gyms
 
-CelesteNetCollab_0_Gyms_gym=Gym
+bitspiecescollab_0_Gyms_gym=Gym
 
-CelesteNetCollab_0_Gyms_berry_side=Berryside
+bitspiecescollab_0_Gyms_berry_side=Berryside
 
-CelesteNetCollab_0_Gyms_beginner_gym=Beginner Gym
-CelesteNetCollab_0_Gyms_beginner_dream_jump=Dream Jump
-CelesteNetCollab_0_Gyms_beginner_dream_jump_dialog=
+bitspiecescollab_0_Gyms_beginner_gym=Beginner Gym
+bitspiecescollab_0_Gyms_beginner_dream_jump=Dream Jump
+bitspiecescollab_0_Gyms_beginner_dream_jump_dialog=
 [MADELINE left angry]
 Hey bitch you can jump out of dream blocks by pressing jump the moment after leaving them and you get a cool boost and shit
-CelesteNetCollab_0_Gyms_beginner_dream_grab=Dream Grab
-CelesteNetCollab_0_Gyms_beginner_fast_bubble=Fast Bubble
-CelesteNetCollab_0_Gyms_beginner_fast_bubble_dialog=
+bitspiecescollab_0_Gyms_beginner_dream_grab=Dream Grab
+bitspiecescollab_0_Gyms_beginner_fast_bubble=Fast Bubble
+bitspiecescollab_0_Gyms_beginner_fast_bubble_dialog=
 [MADELINE left angry]
 Yo you can dash in bubbles to go faster
-CelesteNetCollab_0_Gyms_beginner_jelly_regrab=Jelly Regrab
-CelesteNetCollab_0_Gyms_beginner_jelly_float=Jelly Float
-CelesteNetCollab_0_Gyms_beginner_bunny_hop=Bunny Hop
-CelesteNetCollab_0_Gyms_beginner_fastfall=Fastfalling
-CelesteNetCollab_0_Gyms_beginner_transdash=Transition Dash
+bitspiecescollab_0_Gyms_beginner_jelly_regrab=Jelly Regrab
+bitspiecescollab_0_Gyms_beginner_jelly_float=Jelly Float
+bitspiecescollab_0_Gyms_beginner_bunny_hop=Bunny Hop
+bitspiecescollab_0_Gyms_beginner_fastfall=Fastfalling
+bitspiecescollab_0_Gyms_beginner_transdash=Transition Dash
 
-CelesteNetCollab_0_Gyms_intermediate_gym=Intermediate Gym
-CelesteNetCollab_0_Gyms_intermediate_dream_jump=Dream Jump
-CelesteNetCollab_0_Gyms_intermediate_wave=Wavedashing
-CelesteNetCollab_0_Gyms_intermediate_super=Superdashing
-CelesteNetCollab_0_Gyms_intermediate_hyper=Hyperdashing
-CelesteNetCollab_0_Gyms_intermediate_wallbounce=Wallbounce
-CelesteNetCollab_0_Gyms_intermediate_bumper_boost=Bumper Boost{n}Puffer Boost
-CelesteNetCollab_0_Gyms_intermediate_throwable_vator=Jelly Boost{n}Theo Boost
+bitspiecescollab_0_Gyms_intermediate_gym=Intermediate Gym
+bitspiecescollab_0_Gyms_intermediate_dream_jump=Dream Jump
+bitspiecescollab_0_Gyms_intermediate_wave=Wavedashing
+bitspiecescollab_0_Gyms_intermediate_super=Superdashing
+bitspiecescollab_0_Gyms_intermediate_hyper=Hyperdashing
+bitspiecescollab_0_Gyms_intermediate_wallbounce=Wallbounce
+bitspiecescollab_0_Gyms_intermediate_bumper_boost=Bumper Boost{n}Puffer Boost
+bitspiecescollab_0_Gyms_intermediate_throwable_vator=Jelly Boost{n}Theo Boost
 
 
 # Beginner
 
-CelesteNetCollab_1_Beginner_Constellation_Core=Constellation Core
-CelesteNetCollab_1_Beginner_Constellation_Core_author=by Zen
-CelesteNetCollab_1_Beginner_Constellation_Core_collabcredits=
+bitspiecescollab_1_Beginner_Constellation_Core=Constellation Core
+bitspiecescollab_1_Beginner_Constellation_Core_author=by Zen
+bitspiecescollab_1_Beginner_Constellation_Core_collabcredits=
 Map & Decor by Zen
 Playtesting by bit, Arti, Guynamedpie
-CelesteNetCollab_1_Beginner_Constellation_Core_collabcreditstags=
+bitspiecescollab_1_Beginner_Constellation_Core_collabcreditstags=
 Dream Jumping
 
-CelesteNetCollab_1_Beginner_Undercover= Mission Madeline
-CelesteNetCollab_1_Beginner_Undercover_author= by ArvingoPro
-CelesteNetCollab_1_Beginner_Undercover_brief=
+bitspiecescollab_1_Beginner_Jump_Complex=Jump Complex
+bitspiecescollab_1_Beginner_Jump_Complex_author=by Zen
+bitspiecescollab_1_Beginner_Jump_Complex_collabcredits=
+Map & Decor by Zen
+Playtesting by ???
+bitspiecescollab_1_Beginner_Jump_Complex_collabcreditstags=
+???
+
+bitspiecescollab_1_Beginner_Jump_Complex_Baddy=
+[MADELINE left angry]
+Where have you put me now?
+[BADELINE right scoff]
+Sorry =) {n}But I can't help you now
+
+{trigger 1 Badeline Vanishes}
+
+[MADELINE left sad]
+.{0.2}?
+bitspiecescollab_1_Beginner_Jump_Complex_Big_Saddy=
+[MADELINE left determinedclosed]
+I {0.5}don't need {~}her{/~}.
+bitspiecescollab_1_Beginner_Jump_Complex_Big_Saddy_2=
+[MADELINE left determinedclosed]
+{+MADELINE} {0.8}you {0.1}can do this...
+
+
+bitspiecescollab_1_Beginner_Undercover= Mission Madeline
+bitspiecescollab_1_Beginner_Undercover_author= by ArvingoPro
+bitspiecescollab_1_Beginner_Undercover_brief=
 I see you have made it safely to the site of the key.
 Your goal is to get to the key and swiftly take off without being captured.
 Good luck!
-CelesteNetCollab_1_Beginner_Undercover_collabcredits=
+bitspiecescollab_1_Beginner_Undercover_collabcredits=
 Map by ArvingoPro
 Playtesting by ???
-CelesteNetCollab_1_Beginner_Undercover_collabcreditstags=
+bitspiecescollab_1_Beginner_Undercover_collabcreditstags=
 ???
 ???
 ???
 
-CelesteNetCollab_1_Beginner_Myraid_Nebulae=Myraid Nebulae
-CelesteNetCollab_1_Beginner_Myraid_Nebulae_author=by TheGamingLlama
-CelesteNetCollab_1_Beginner_Myraid_Nebulae_collabcredits=
+bitspiecescollab_1_Beginner_Myraid_Nebulae=Myraid Nebulae
+bitspiecescollab_1_Beginner_Myraid_Nebulae_author=by TheGamingLlama
+bitspiecescollab_1_Beginner_Myraid_Nebulae_collabcredits=
 Map by TheGamingLlama
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_1_Beginner_Myraid_Nebulae_collabcreditstags=
+bitspiecescollab_1_Beginner_Myraid_Nebulae_collabcreditstags=
 ???
 ???
 ???
 
 # Intermediate
 
-CelesteNetCollab_2_Intermediate_Ciudad=Ciudad
+bitspiecescollab_2_Intermediate_Ciudad=Ciudad
 
-CelesteNetCollab_2_Intermediate_CycleBattle= Cycle Battle
-CelesteNetCollab_2_Intermediate_CycleBattle_author= by Cdog
-CelesteNetCollab_2_Intermediate_CycleBattle_collabcredits=
+bitspiecescollab_2_Intermediate_CycleBattle= Cycle Battle
+bitspiecescollab_2_Intermediate_CycleBattle_author= by Cdog
+bitspiecescollab_2_Intermediate_CycleBattle_collabcredits=
 Map by Cdog
 Playtesting by St-Va1 & Olas
-CelesteNetCollab_2_Intermediate_CycleBattle_collabcreditstags=
+bitspiecescollab_2_Intermediate_CycleBattle_collabcreditstags=
 Cycle HELL
 Badeline boss
 # todo: does this map need wavedashing or such?
 
-CelesteNetCollab_2_Intermediate_FeatherFever= Feather Fever
-CelesteNetCollab_2_Intermediate_FeatherFever_author= by ArvingoPro
-CelesteNetCollab_2_Intermediate_FeatherFever_collabcredits=
+bitspiecescollab_2_Intermediate_FeatherFever= Feather Fever
+bitspiecescollab_2_Intermediate_FeatherFever_author= by ArvingoPro
+bitspiecescollab_2_Intermediate_FeatherFever_collabcredits=
 Map by ArvingoPro
 Playtesting by ???
-CelesteNetCollab_2_Intermediate_FeatherFever_collabcreditstags=
+bitspiecescollab_2_Intermediate_FeatherFever_collabcreditstags=
 ???
 ???
 ???
 
-CelesteNetCollab_2_Intermediate_GoldenStar= Stars of the Golden Planet
-CelesteNetCollab_2_Intermediate_GoldenStar_author= by Zen
-CelesteNetCollab_2_Intermediate_GoldenStar_collabcredits= Gameplay by Zen
+bitspiecescollab_2_Intermediate_GoldenStar= Stars of the Golden Planet
+bitspiecescollab_2_Intermediate_GoldenStar_author= by Zen
+bitspiecescollab_2_Intermediate_GoldenStar_collabcredits= Gameplay by Zen
 Deco by Zen
 Playtesting by bit, Cdog, and Mc2save
-CelesteNetCollab_2_Intermediate_GoldenStar_collabcreditstags=
+bitspiecescollab_2_Intermediate_GoldenStar_collabcreditstags=
 Wavedashing
 Wall bounces
 Extra jump refills
 
-CelesteNetCollab_2_Intermediate_StormyCity= Stormy City
-CelesteNetCollab_2_Intermediate_StormyCity_author= by TheGamingLlama
-CelesteNetCollab_2_Intermediate_StormyCity_collabcredits=
+bitspiecescollab_2_Intermediate_StormyCity= Stormy City
+bitspiecescollab_2_Intermediate_StormyCity_author= by TheGamingLlama
+bitspiecescollab_2_Intermediate_StormyCity_collabcredits=
 Map by TheGamingLlama
 Playtesting by ST-Va1, Guynamedpie and arti
-CelesteNetCollab_2_Intermediate_StormyCity_collabcreditstags=
+bitspiecescollab_2_Intermediate_StormyCity_collabcreditstags=
 Hyperdashes
 Jelly Regrabs
 
-CelesteNetCollab_2_Intermediate_Path_Of_The_Stars=Path of the Stars
-CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_author=by ender
-CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcredits=
+bitspiecescollab_2_Intermediate_Path_Of_The_Stars=Path of the Stars
+bitspiecescollab_2_Intermediate_Path_Of_The_Stars_author=by ender
+bitspiecescollab_2_Intermediate_Path_Of_The_Stars_collabcredits=
 Map & deco by ender
 Playtesting by ???
-CelesteNetCollab_2_Intermediate_Path_Of_The_Stars_collabcreditstags=
+bitspiecescollab_2_Intermediate_Path_Of_The_Stars_collabcreditstags=
 Wavedashing
 Wall bounces
 Dream redirects
@@ -130,22 +156,22 @@ Dream redirects
 
 # Advanced
 
-CelesteNetCollab_3_Advanced_boosteryeet=Bubble Yeet
-CelesteNetCollab_3_Advanced_boosteryeet_author=by bit
-CelesteNetCollab_3_Advanced_boosteryeet_collabcredits=
+bitspiecescollab_3_Advanced_boosteryeet=Bubble Yeet
+bitspiecescollab_3_Advanced_boosteryeet_author=by bit
+bitspiecescollab_3_Advanced_boosteryeet_collabcredits=
 Map by bit
 Decor by ...?
 Playtesting by Guynamedpie, arti,
 paulio & St-Val1
-CelesteNetCollab_3_Advanced_boosteryeet_collabcreditstags=
+bitspiecescollab_3_Advanced_boosteryeet_collabcreditstags=
 Mid-air supers
 Reverse dashing
 Bubble dashing
 Block boosts
-CelesteNetCollab_3_Advanced_boosteryeet_b2_how=
+bitspiecescollab_3_Advanced_boosteryeet_b2_how=
 [madeline left normal]
 How did I get here lol
-CelesteNetCollab_3_Advanced_boosteryeet_b2_sus=
+bitspiecescollab_3_Advanced_boosteryeet_b2_sus=
 [theo left normal]
 Holy shit {+MADELINE} is that a fucking among us reference
 [madeline right panic]
@@ -157,72 +183,72 @@ sus
 [madeline right panic]
 getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-CelesteNetCollab_3_Advanced_cumulus_heights=Cumulus Heights
-CelesteNetCollab_3_Advanced_cumulus_heights_author=by bit
-CelesteNetCollab_3_Advanced_cumulus_heights_collabcredits=
+bitspiecescollab_3_Advanced_cumulus_heights=Cumulus Heights
+bitspiecescollab_3_Advanced_cumulus_heights_author=by bit
+bitspiecescollab_3_Advanced_cumulus_heights_collabcredits=
 Map by bit
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_3_Advanced_cumulus_heights_collabcreditstags=
+bitspiecescollab_3_Advanced_cumulus_heights_collabcreditstags=
 Cloud dashing
 Neutral jellyfish boost
 
-CelesteNetCollab_3_Advanced_PuzzlePieces=Puzzle Pieces
-# CelesteNetCollab_3_Advanced_PuzzlePieces_author=by
-# CelesteNetCollab_3_Advanced_PuzzlePieces_collabcredits=
-# CelesteNetCollab_3_Advanced_PuzzlePieces_collabcreditstags=
+bitspiecescollab_3_Advanced_PuzzlePieces=Puzzle Pieces
+# bitspiecescollab_3_Advanced_PuzzlePieces_author=by
+# bitspiecescollab_3_Advanced_PuzzlePieces_collabcredits=
+# bitspiecescollab_3_Advanced_PuzzlePieces_collabcreditstags=
 
 # Expert
 
-CelesteNetCollab_4_Expert_space_jam_on_toast=Space Jam with Toast
-CelesteNetCollab_4_Expert_space_jam_on_toast_author=by bit
-CelesteNetCollab_4_Expert_space_jam_on_toast_collabcredits=
+bitspiecescollab_4_Expert_space_jam_on_toast=Space Jam with Toast
+bitspiecescollab_4_Expert_space_jam_on_toast_author=by bit
+bitspiecescollab_4_Expert_space_jam_on_toast_collabcredits=
 Map by bit
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_4_Expert_space_jam_on_toast_collabcreditstags=
+bitspiecescollab_4_Expert_space_jam_on_toast_collabcreditstags=
 Dream hypers
 Dream supers
 
-CelesteNetCollab_4_Expert_Crystal_Peak=Crystal Peak
-CelesteNetCollab_4_Expert_Crystal_Peak_author=by Youcef
-CelesteNetCollab_4_Expert_Crystal_Peak_collabcredits=
+bitspiecescollab_4_Expert_Crystal_Peak=Crystal Peak
+bitspiecescollab_4_Expert_Crystal_Peak_author=by Youcef
+bitspiecescollab_4_Expert_Crystal_Peak_collabcredits=
 Map by Youcef
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_4_Expert_Crystal_Peak_collabcreditstags=
+bitspiecescollab_4_Expert_Crystal_Peak_collabcreditstags=
 Dream hypers
 Ultradashing
 Mid-air supers
 
-CelesteNetCollab_4_Expert_Cyber_Space=Cyber Space
-CelesteNetCollab_4_Expert_Cyber_Space_author=by enber
-CelesteNetCollab_4_Expert_Cyber_Space_collabcredits=
+bitspiecescollab_4_Expert_Cyber_Space=Cyber Space
+bitspiecescollab_4_Expert_Cyber_Space_author=by enber
+bitspiecescollab_4_Expert_Cyber_Space_collabcredits=
 Map by enber
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_4_Expert_Cyber_Space_collabcreditstags=
+bitspiecescollab_4_Expert_Cyber_Space_collabcreditstags=
 Ultradashing
 Corner boosts
 Mid-air supers
 
-CelesteNetCollab_4_Expert_Mythril_Mine=Mythril Mine
-CelesteNetCollab_4_Expert_Mythril_Mine_author=by Jess
-CelesteNetCollab_4_Expert_Mythril_Mine_collabcredits=
+bitspiecescollab_4_Expert_Mythril_Mine=Mythril Mine
+bitspiecescollab_4_Expert_Mythril_Mine_author=by Jess
+bitspiecescollab_4_Expert_Mythril_Mine_collabcredits=
 Map by Jess
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_4_Expert_Mythril_Mine_collabcreditstags=
+bitspiecescollab_4_Expert_Mythril_Mine_collabcreditstags=
 Dream hypers
 Ultradashing
 Mid-air supers
 
-CelesteNetCollab_4_Expert_UltraLadder= Ultra Ladder
-CelesteNetCollab_4_Expert_UltraLadder_author= by ArvingoPro
-CelesteNetCollab_4_Expert_UltraLadder_collabcredits=
+bitspiecescollab_4_Expert_UltraLadder= Ultra Ladder
+bitspiecescollab_4_Expert_UltraLadder_author= by ArvingoPro
+bitspiecescollab_4_Expert_UltraLadder_collabcredits=
 Map by ArvingoPro
 Deco by paulvonhooverIII
-CelesteNetCollab_4_Expert_Mythril_Mine_collabcreditstags=
+bitspiecescollab_4_Expert_Mythril_Mine_collabcreditstags=
 ???
 ???
 ???
@@ -230,43 +256,24 @@ CelesteNetCollab_4_Expert_Mythril_Mine_collabcreditstags=
 
 # Grandmaster
 
-CelesteNetCollab_5_Grandmaster_Flying_Fortress=Flying Fortress
-CelesteNetCollab_5_Grandmaster_Flying_Fortress_author=by paulio
-CelesteNetCollab_5_Grandmaster_Flying_Fortress_collabcredits=
+bitspiecescollab_5_Grandmaster_Flying_Fortress=Flying Fortress
+bitspiecescollab_5_Grandmaster_Flying_Fortress_author=by paulio
+bitspiecescollab_5_Grandmaster_Flying_Fortress_collabcredits=
 Map by paulio
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_5_Grandmaster_Flying_Fortress_collabcreditstags=
+bitspiecescollab_5_Grandmaster_Flying_Fortress_collabcreditstags=
 ???
 ???
 ???
 
-CelesteNetCollab_5_Grandmaster_Spacious_Acceleration=Spacious Acceleration
-CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_author=by paulio
-CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_collabcredits=
+bitspiecescollab_5_Grandmaster_Spacious_Acceleration=Spacious Acceleration
+bitspiecescollab_5_Grandmaster_Spacious_Acceleration_author=by paulio
+bitspiecescollab_5_Grandmaster_Spacious_Acceleration_collabcredits=
 Map by paulio
 Decor by ???
 Playtesting by ???
-CelesteNetCollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
+bitspiecescollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
 ???
 ???
 ???
-
-# todo: what fucking map needs this dialogue???
-#Dialogue real
-CelesteNetCollab_Baddy_Jump_Map=
-[MADELINE left angry]
-Where have you put me now?
-[BADELINE right scoff]
-Sorry =) {n}But I can't help you now
-
-{trigger 1 Badeline Vanishes}
-
-[MADELINE left sad]
-.{0.2}?
-CelesteNetCollab_Big_Saddy_Jump_Map=
-[MADELINE left determinedclosed]
-I {0.5}don't need {~}her{/~}.
-CelesteNetCollab_Big_Saddy_2_Jump_Map=
-[MADELINE left determinedclosed]
-{+MADELINE} {0.8}you {0.1}can do this...
