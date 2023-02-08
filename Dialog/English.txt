@@ -278,14 +278,14 @@ bitspiecescollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
 ???
 ???
 
-bitspiecescollab_5_Grandmaster_DemoTemple=Demo Temple
-bitspiecescollab_5_Grandmaster_DemoTemple_author=by Mc2save
-bitspiecescollab_5_Grandmaster_DemoTemple_collabcredits=
+bitspiecescollab_5_Grandmaster_TheCryptOfDemos=The Crypt of Demos
+bitspiecescollab_5_Grandmaster_TheCryptOfDemos_author=by Mc2save
+bitspiecescollab_5_Grandmaster_TheCryptOfDemos_collabcredits=
 Map by Mc2save
 Decor by ???
 Playtesting by Viddie
-bitspiecescollab_5_Grandmaster_DemoTemple_collabcreditstags=
+bitspiecescollab_5_Grandmaster_TheCryptOfDemos_collabcreditstags=
 Chained ultras
 Demodashing
 Dream hypers
-# poem_bitspiecescollab_5_Grandmaster_DemoTemple_A= Demo Spam doesn't make a good map
+# poem_bitspiecescollab_5_Grandmaster_TheCryptOfDemos_A= Demo Spam doesn't make a good map
