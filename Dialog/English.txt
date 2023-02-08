@@ -248,7 +248,7 @@ bitspiecescollab_4_Expert_UltraLadder_author= by ArvingoPro
 bitspiecescollab_4_Expert_UltraLadder_collabcredits=
 Map by ArvingoPro
 Deco by paulvonhooverIII
-bitspiecescollab_4_Expert_Mythril_Mine_collabcreditstags=
+bitspiecescollab_4_Expert_UltraLadder_collabcreditstags=
 ???
 ???
 ???
@@ -277,3 +277,15 @@ bitspiecescollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
 ???
 ???
 ???
+
+bitspiecescollab_5_Grandmaster_DemoTemple=Demo Temple
+bitspiecescollab_5_Grandmaster_DemoTemple_author=by Mc2save
+bitspiecescollab_5_Grandmaster_DemoTemple_collabcredits=
+Map by Mc2save
+Decor by ???
+Playtesting by Viddie
+bitspiecescollab_5_Grandmaster_DemoTemple_collabcreditstags=
+Chained ultras
+Demodashing
+Dream hypers
+# poem_bitspiecescollab_5_Grandmaster_DemoTemple_A= Demo Spam doesn't make a good map

@@ -30,6 +30,7 @@
 # Grandmaster maps
 # Flying Fortress: FrostHelper, VivHelper, CommunalHelper, ExtendedVariantMode, MaxHelpingHand, BrokemiaHelper, LunaticHelper, VortexHelper, ContortHelper
 # Spacious_Acceleration: VivHelper, Anonhelper, PandorasBox, CommunalHelper, ExtendedVariantMode, DJMapHelper
+# DemoTemple: MaxHelpingHand, BrokemiaHelper, FrostHelper, OutbackHelper, YetAnotherHelper, GravityHelper, NerdHelper, SorbetHelper, CommunalHelper, JungleHelper
 
 - Name: bitspiecescollab
   Version: 1.0.0
@@ -91,3 +92,9 @@
       Version: 1.2.1
     - Name: LuaCutscenes
       Version: 0.2.6
+    - Name: NerdHelper
+      Version: 1.4.0
+    - Name: GravityHelper
+      Version: 1.1.28
+    - Name: YetAnotherHelper
+      Version: 1.2.4
