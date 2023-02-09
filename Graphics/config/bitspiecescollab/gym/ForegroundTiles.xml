@@ -302,9 +302,12 @@
 
   <Tileset id="n" copy="z" path="scifi"/>
 
+
   <Tileset id="o" copy="y" path="bitspiecescollab/gym/grass_simpel" sound="3"/>
   <Tileset id="p" copy="y" path="bitspiecescollab/gym/reflection_simpel" sound="33"/>
-  <Tileset id="q" copy="y" path="bitspiecescollab/gym/citystone_simpel" sound="15"/>
+  <Tileset id="q" copy="y" path="bitspiecescollab/IntermediateLobby/CityStone" sound="15"/>
+  <Tileset id="Q" copy="z" path="bitspiecescollab/IntermediateLobby/CaveCliffsideCnet" sound="37"/>
+  <!-- <Tileset id="q" copy="y" path="bitspiecescollab/gym/citystone_simpel" sound="15"/> -->
   <Tileset id="r" copy="y" path="bitspiecescollab/gym/clifsnow_simpel" sound="23"/>
   <Tileset id="s" copy="y" path="bitspiecescollab/gym/girder_simpel" sound="7"/>
   <Tileset id="t" copy="y" path="bitspiecescollab/gym/tempel_simpel" sound="8"/>

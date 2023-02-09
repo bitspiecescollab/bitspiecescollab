@@ -10,6 +10,13 @@ poem_bitspiecescollab_0_Lobbies_69_debug_A=Pog poggers
 # Gyms
 
 bitspiecescollab_0_Gyms_gym=Gym
+bitspiecescollab_0_Gyms_gym_directions_start=
+Beginner Gym >{n}
+Intermediate Gym >{n}
+<- Advanced Gym{n}
+^ Expert Gym{n}
+^ Grandmaster Gym
+
 
 bitspiecescollab_0_Gyms_berry_side=Berryside
 
@@ -283,7 +290,7 @@ bitspiecescollab_5_Grandmaster_TheCryptOfDemos_author=by Mc2save
 bitspiecescollab_5_Grandmaster_TheCryptOfDemos_collabcredits=
 Map by Mc2save
 Decor by ???
-Playtesting by Viddie
+Playtesting by Viddie & Nibblz
 bitspiecescollab_5_Grandmaster_TheCryptOfDemos_collabcreditstags=
 Chained ultras
 Demodashing
