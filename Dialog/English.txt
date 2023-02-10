@@ -21,6 +21,9 @@ Intermediate Gym >{n}
 <- Advanced Gym{n}
 ^ Expert Gym{n}
 ^ Grandmaster Gym
+bitspiecescollab_0_Gyms_gym_pog=
+[birb left normal]
+Pog poggers
 
 
 bitspiecescollab_0_Gyms_berry_side=Berryside
