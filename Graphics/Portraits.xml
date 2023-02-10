@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+  <!-- todo: get custom sfx -->
+  <portrait_birb path="bitspiecescollab/birb/" sfx="mom" textbox="bitspiecescollab/birb">
+    <Center />
+
+    <sfxs>
+      <normal index="1"/>
+    </sfxs>
+
+    <Loop id="idle_normal" path="normal" delay="0.1" frames="0"/>
+  </portrait_birb>
+</Sprites>
