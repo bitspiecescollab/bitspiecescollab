@@ -10,6 +10,11 @@ poem_bitspiecescollab_0_Lobbies_69_debug_A=Pog poggers
 # Gyms
 
 bitspiecescollab_0_Gyms_gym=Gym
+bitspiecescollab_0_Gyms_gym_a1=Beginner Gym
+bitspiecescollab_0_Gyms_gym_b1=Intermediate Gym
+bitspiecescollab_0_Gyms_gym_c1=Advanced Gym
+bitspiecescollab_0_Gyms_gym_d1=Expert Gym
+bitspiecescollab_0_Gyms_gym_e1=Grandmaster Gym
 bitspiecescollab_0_Gyms_gym_directions_start=
 Beginner Gym >{n}
 Intermediate Gym >{n}
@@ -39,6 +44,12 @@ bitspiecescollab_0_Gyms_beginner_transdash=Transition Dash
 bitspiecescollab_0_Gyms_intermediate_gym=Intermediate Gym
 bitspiecescollab_0_Gyms_intermediate_dream_jump=Dream Jump
 bitspiecescollab_0_Gyms_intermediate_wave=Wavedashing
+bitspiecescollab_0_Gyms_intermediate_wave_tutorial=
+[birb left normal]
+Dash down diagonal towards a platform and jump immediately after landing to go flying pretty far.
+bitspiecescollab_0_Gyms_intermediate_wave_tutorial2=
+[birb left normal]
+If you time the jump correctly, you can regain your dash. If you aren't regaining the dash, jump later.
 bitspiecescollab_0_Gyms_intermediate_super=Superdashing
 bitspiecescollab_0_Gyms_intermediate_hyper=Hyperdashing
 bitspiecescollab_0_Gyms_intermediate_wallbounce=Wallbounce
