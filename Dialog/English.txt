@@ -216,9 +216,9 @@ Neutral jellyfish boost
 bitspiecescollab_3_Advanced_cumulus_heights_c1_umbrella=
 [madeline left sad]
 I didn't see this coming
-[badeline right normal]
-Looks like that crazed weather man was right
-[madeline left sad]
+[badeline right scoff]
+Looks like that crazy weather man was right
+[madeline left angry]
 Just shut and help me find an umbrella
 Bruh my hair is getting soaked
 bitspiecescollab_3_Advanced_cumulus_heights_c2_umbrella_found=
