@@ -204,7 +204,7 @@ sus
 [madeline right panic]
 getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-bitspiecescollab_3_Advanced_cumulus_heights=Cumulus Heights
+bitspiecescollab_3_Advanced_cumulus_heights=Cumulonimbus Heights
 bitspiecescollab_3_Advanced_cumulus_heights_author=by bit
 bitspiecescollab_3_Advanced_cumulus_heights_collabcredits=
 Map by bit
@@ -213,6 +213,17 @@ Playtesting by ???
 bitspiecescollab_3_Advanced_cumulus_heights_collabcreditstags=
 Cloud dashing
 Neutral jellyfish boost
+bitspiecescollab_3_Advanced_cumulus_heights_c1_umbrella=
+[madeline left sad]
+I didn't see this coming
+[badeline right normal]
+Looks like that crazed weather man was right
+[madeline left sad]
+Just shut and help me find an umbrella
+Bruh my hair is getting soaked
+bitspiecescollab_3_Advanced_cumulus_heights_c2_umbrella_found=
+[madeline left sad]
+Well it's no umbrella, but it'll do
 
 bitspiecescollab_3_Advanced_PuzzlePieces=Puzzle Pieces
 # bitspiecescollab_3_Advanced_PuzzlePieces_author=by
