@@ -213,6 +213,31 @@ Playtesting by ???
 bitspiecescollab_3_Advanced_cumulus_heights_collabcreditstags=
 Cloud dashing
 Neutral jellyfish boost
+bitspiecescollab_3_Advanced_cumulus_heights_a1b_weather=
+[webcam_theo right normal]
+...and now for the Seattle weather
+It's gonna be pouring in Seattle for the next 17 weeks
+Best all you folks stay indoors
+Back to you Chip
+[madeline left normal]
+Wait was that {+THEO}?
+[badeline right normal]
+Yea, he got a weatherman gig recently
+[badeline right scoff]
+Don't tell me you didn't know
+[madeline left upset]
+...
+Let's just go
+[badeline right scoff]
+You didn't hear a thing he said now did you?
+[madeline left normal]
+Bruh the skies are clear right now... there's no way it's gonna rain by the time we get up there.
+[madeline left determined]
+We're professional speedrunners after all... we can just outrun the rain
+[badeline right worried]
+...
+[badeline right sigh]
+Sure lol
 bitspiecescollab_3_Advanced_cumulus_heights_c1_umbrella=
 [madeline left sad]
 I didn't see this coming
