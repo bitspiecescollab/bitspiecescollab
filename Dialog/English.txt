@@ -62,23 +62,23 @@ bitspiecescollab_0_Gyms_intermediate_throwable_vator=Jelly Boost{n}Theo Boost
 
 # Beginner
 
-bitspiecescollab_1_Beginner_Constellation_Core=Constellation Core
-bitspiecescollab_1_Beginner_Constellation_Core_author=by Zen
-bitspiecescollab_1_Beginner_Constellation_Core_collabcredits=
+bitspiecescollab_2_Intermediate_Constellation_Core=Constellation Core
+bitspiecescollab_2_Intermediate_Constellation_Core_author=by Zen
+bitspiecescollab_2_Intermediate_Constellation_Core_collabcredits=
 Map & Decor by Zen
 Playtesting by bit, Arti, Guynamedpie
-bitspiecescollab_1_Beginner_Constellation_Core_collabcreditstags=
+bitspiecescollab_2_Intermediate_Constellation_Core_collabcreditstags=
 Dream Jumping
 
-bitspiecescollab_1_Beginner_Jump_Complex=Jump Complex
-bitspiecescollab_1_Beginner_Jump_Complex_author=by Zen
-bitspiecescollab_1_Beginner_Jump_Complex_collabcredits=
+bitspiecescollab_2_Intermediate_Jump_Complex=Jump Complex
+bitspiecescollab_2_Intermediate_Jump_Complex_author=by Zen
+bitspiecescollab_2_Intermediate_Jump_Complex_collabcredits=
 Map & Decor by Zen
 Playtesting by ???
-bitspiecescollab_1_Beginner_Jump_Complex_collabcreditstags=
+bitspiecescollab_2_Intermediate_Jump_Complex_collabcreditstags=
 ???
 
-bitspiecescollab_1_Beginner_Jump_Complex_Baddy=
+bitspiecescollab_2_Intermediate_Jump_Complex_Baddy=
 [MADELINE left angry]
 Where have you put me now?
 [BADELINE right scoff]
@@ -88,35 +88,20 @@ Sorry =) {n}But I can't help you now
 
 [MADELINE left sad]
 .{0.2}?
-bitspiecescollab_1_Beginner_Jump_Complex_Big_Saddy=
+bitspiecescollab_2_Intermediate_Jump_Complex_Big_Saddy=
 [MADELINE left determinedclosed]
 I {0.5}don't need {~}her{/~}.
-bitspiecescollab_1_Beginner_Jump_Complex_Big_Saddy_2=
+bitspiecescollab_2_Intermediate_Jump_Complex_Big_Saddy_2=
 [MADELINE left determinedclosed]
 {+MADELINE} {0.8}you {0.1}can do this...
 
-
-bitspiecescollab_1_Beginner_Undercover= Mission Madeline
-bitspiecescollab_1_Beginner_Undercover_author= by ArvingoPro
-bitspiecescollab_1_Beginner_Undercover_brief=
-I see you have made it safely to the site of the key.
-Your goal is to get to the key and swiftly take off without being captured.
-Good luck!
-bitspiecescollab_1_Beginner_Undercover_collabcredits=
-Map by ArvingoPro
-Playtesting by ???
-bitspiecescollab_1_Beginner_Undercover_collabcreditstags=
-???
-???
-???
-
-bitspiecescollab_1_Beginner_Myraid_Nebulae=Myraid Nebulae
-bitspiecescollab_1_Beginner_Myraid_Nebulae_author=by TheGamingLlama
-bitspiecescollab_1_Beginner_Myraid_Nebulae_collabcredits=
+bitspiecescollab_2_Intermediate_Myraid_Nebulae=Myraid Nebulae
+bitspiecescollab_2_Intermediate_Myraid_Nebulae_author=by TheGamingLlama
+bitspiecescollab_2_Intermediate_Myraid_Nebulae_collabcredits=
 Map by TheGamingLlama
 Decor by ???
 Playtesting by ???
-bitspiecescollab_1_Beginner_Myraid_Nebulae_collabcreditstags=
+bitspiecescollab_2_Intermediate_Myraid_Nebulae_collabcreditstags=
 ???
 ???
 ???
@@ -177,22 +162,22 @@ Dream redirects
 
 # Advanced
 
-bitspiecescollab_3_Advanced_boosteryeet=Bubble Yeet
-bitspiecescollab_3_Advanced_boosteryeet_author=by bit
-bitspiecescollab_3_Advanced_boosteryeet_collabcredits=
+bitspiecescollab_3_Expert_boosteryeet=Bubble Yeet
+bitspiecescollab_3_Expert_boosteryeet_author=by bit
+bitspiecescollab_3_Expert_boosteryeet_collabcredits=
 Map by bit
 Decor by ...?
 Playtesting by Guynamedpie, arti,
 paulio & St-Val1
-bitspiecescollab_3_Advanced_boosteryeet_collabcreditstags=
+bitspiecescollab_3_Expert_boosteryeet_collabcreditstags=
 Mid-air supers
 Reverse dashing
 Bubble dashing
 Block boosts
-bitspiecescollab_3_Advanced_boosteryeet_b2_how=
+bitspiecescollab_3_Expert_boosteryeet_b2_how=
 [madeline left normal]
 How did I get here lol
-bitspiecescollab_3_Advanced_boosteryeet_b2_sus=
+bitspiecescollab_3_Expert_boosteryeet_b2_sus=
 [theo left normal]
 Holy shit {+MADELINE} is that a fucking among us reference
 [madeline right panic]
@@ -204,17 +189,17 @@ sus
 [madeline right panic]
 getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-bitspiecescollab_3_Advanced_cumulus_heights=Cumulonimbus Heights
-bitspiecescollab_3_Advanced_cumulus_heights_author=by bit
-bitspiecescollab_3_Advanced_cumulus_heights_collabcredits=
+bitspiecescollab_2_Intermediate_cumulus_heights=Cumulonimbus Heights
+bitspiecescollab_2_Intermediate_cumulus_heights_author=by bit
+bitspiecescollab_2_Intermediate_cumulus_heights_collabcredits=
 Map by bit
 Decor by ???
 Playtesting by ???
-bitspiecescollab_3_Advanced_cumulus_heights_collabcreditstags=
+bitspiecescollab_2_Intermediate_cumulus_heights_collabcreditstags=
 Cloud dashing
 Neutral jellyfish boost
 
-bitspiecescollab_3_Advanced_cumulus_heights_a1b_weather=
+bitspiecescollab_2_Intermediate_cumulus_heights_a1b_weather=
 [webcam_theo right normal]
 ...and now for the Seattle weather
 It's gonna be pouring in Seattle for the next 17 weeks
@@ -240,7 +225,7 @@ We're professional speedrunners after all... we can just outrun the rain
 [badeline right sigh]
 Sure lol
 
-bitspiecescollab_3_Advanced_cumulus_heights_c1_umbrella=
+bitspiecescollab_2_Intermediate_cumulus_heights_c1_umbrella=
 [madeline left sad]
 I didn't see this coming
 [badeline right scoff]
@@ -249,7 +234,7 @@ Looks like that crazy weather man was right
 Just shut and help me find an umbrella
 Bruh my hair is getting soaked
 
-bitspiecescollab_3_Advanced_cumulus_heights_c1_umbrella_alt=
+bitspiecescollab_2_Intermediate_cumulus_heights_c1_umbrella_alt=
 [madeline left sad]
 I didn't see this coming
 [badeline right scoff]
@@ -259,66 +244,62 @@ Looks like {+THEO} was right
 Just shut and help me find an umbrella
 Bruh my hair is getting soaked
 
-bitspiecescollab_3_Advanced_cumulus_heights_c2_umbrella_found=
+bitspiecescollab_2_Intermediate_cumulus_heights_c2_umbrella_found=
 [madeline left sad]
 Well it's no umbrella, but it'll do
 
-bitspiecescollab_3_Advanced_PuzzlePieces=Puzzle Pieces
-# bitspiecescollab_3_Advanced_PuzzlePieces_author=by
-# bitspiecescollab_3_Advanced_PuzzlePieces_collabcredits=
-# bitspiecescollab_3_Advanced_PuzzlePieces_collabcreditstags=
 
 # Expert
 
-bitspiecescollab_4_Expert_space_jam_on_toast=Space Jam with Toast
-bitspiecescollab_4_Expert_space_jam_on_toast_author=by bit
-bitspiecescollab_4_Expert_space_jam_on_toast_collabcredits=
+bitspiecescollab_3_Expert_space_jam_on_toast=Space Jam with Toast
+bitspiecescollab_3_Expert_space_jam_on_toast_author=by bit
+bitspiecescollab_3_Expert_space_jam_on_toast_collabcredits=
 Map by bit
 Decor by ???
 Playtesting by ???
-bitspiecescollab_4_Expert_space_jam_on_toast_collabcreditstags=
+bitspiecescollab_3_Expert_space_jam_on_toast_collabcreditstags=
 Dream hypers
 Dream supers
 
-bitspiecescollab_4_Expert_Crystal_Peak=Crystal Peak
-bitspiecescollab_4_Expert_Crystal_Peak_author=by Youcef
-bitspiecescollab_4_Expert_Crystal_Peak_collabcredits=
+bitspiecescollab_3_Expert_Crystal_Peak=Crystal Peak
+bitspiecescollab_3_Expert_Crystal_Peak_author=by Youcef
+bitspiecescollab_3_Expert_Crystal_Peak_collabcredits=
 Map by Youcef
 Decor by ???
 Playtesting by ???
-bitspiecescollab_4_Expert_Crystal_Peak_collabcreditstags=
+bitspiecescollab_3_Expert_Crystal_Peak_collabcreditstags=
 Dream hypers
 Ultradashing
 Mid-air supers
 
-bitspiecescollab_4_Expert_Cyber_Space=Cyber Space
-bitspiecescollab_4_Expert_Cyber_Space_author=by enber
-bitspiecescollab_4_Expert_Cyber_Space_collabcredits=
+bitspiecescollab_3_Expert_Cyber_Space=Cyber Space
+bitspiecescollab_3_Expert_Cyber_Space_author=by enber
+bitspiecescollab_3_Expert_Cyber_Space_collabcredits=
 Map by enber
 Decor by ???
 Playtesting by ???
-bitspiecescollab_4_Expert_Cyber_Space_collabcreditstags=
+bitspiecescollab_3_Expert_Cyber_Space_collabcreditstags=
 Ultradashing
 Corner boosts
 Mid-air supers
 
-bitspiecescollab_4_Expert_Mythril_Mine=Mythril Mine
-bitspiecescollab_4_Expert_Mythril_Mine_author=by Jess
-bitspiecescollab_4_Expert_Mythril_Mine_collabcredits=
+bitspiecescollab_3_Expert_Mythril_Mine=Mythril Mine
+bitspiecescollab_3_Expert_Mythril_Mine_author=by Jess
+bitspiecescollab_3_Expert_Mythril_Mine_collabcredits=
 Map by Jess
 Decor by ???
 Playtesting by ???
-bitspiecescollab_4_Expert_Mythril_Mine_collabcreditstags=
+bitspiecescollab_3_Expert_Mythril_Mine_collabcreditstags=
 Dream hypers
 Ultradashing
 Mid-air supers
 
-bitspiecescollab_4_Expert_UltraLadder= Ultra Ladder
-bitspiecescollab_4_Expert_UltraLadder_author= by ArvingoPro
-bitspiecescollab_4_Expert_UltraLadder_collabcredits=
+bitspiecescollab_3_Expert_UltraLadder= Ultra Ladder
+bitspiecescollab_3_Expert_UltraLadder_author= by ArvingoPro
+bitspiecescollab_3_Expert_UltraLadder_collabcredits=
 Map by ArvingoPro
 Deco by paulvonhooverIII
-bitspiecescollab_4_Expert_UltraLadder_collabcreditstags=
+bitspiecescollab_3_Expert_UltraLadder_collabcreditstags=
 ???
 ???
 ???
@@ -326,36 +307,35 @@ bitspiecescollab_4_Expert_UltraLadder_collabcreditstags=
 
 # Grandmaster
 
-bitspiecescollab_5_Grandmaster_Flying_Fortress=Flying Fortress
-bitspiecescollab_5_Grandmaster_Flying_Fortress_author=by paulio
-bitspiecescollab_5_Grandmaster_Flying_Fortress_collabcredits=
+bitspiecescollab_3_Expert_Flying_Fortress=Flying Fortress
+bitspiecescollab_3_Expert_Flying_Fortress_author=by paulio
+bitspiecescollab_3_Expert_Flying_Fortress_collabcredits=
 Map by paulio
 Decor by ???
 Playtesting by ???
-bitspiecescollab_5_Grandmaster_Flying_Fortress_collabcreditstags=
+bitspiecescollab_3_Expert_Flying_Fortress_collabcreditstags=
 ???
 ???
 ???
 
-bitspiecescollab_5_Grandmaster_Spacious_Acceleration=Spacious Acceleration
-bitspiecescollab_5_Grandmaster_Spacious_Acceleration_author=by paulio
-bitspiecescollab_5_Grandmaster_Spacious_Acceleration_collabcredits=
+bitspiecescollab_3_Expert_Spacious_Acceleration=Spacious Acceleration
+bitspiecescollab_3_Expert_Spacious_Acceleration_author=by paulio
+bitspiecescollab_3_Expert_Spacious_Acceleration_collabcredits=
 Map by paulio
 Decor by ???
 Playtesting by ???
-bitspiecescollab_5_Grandmaster_Spacious_Acceleration_collabcreditstags=
+bitspiecescollab_3_Expert_Spacious_Acceleration_collabcreditstags=
 ???
 ???
 ???
 
-bitspiecescollab_5_Grandmaster_TheCryptOfDemos=The Crypt of Demos
-bitspiecescollab_5_Grandmaster_TheCryptOfDemos_author=by Mc2save
-bitspiecescollab_5_Grandmaster_TheCryptOfDemos_collabcredits=
+bitspiecescollab_3_Expert_TheCryptOfDemos=The Crypt of Demos
+bitspiecescollab_3_Expert_TheCryptOfDemos_author=by Mc2save
+bitspiecescollab_3_Expert_TheCryptOfDemos_collabcredits=
 Map by Mc2save
 Decor by ???
 Playtesting by Viddie & Nibblz
-bitspiecescollab_5_Grandmaster_TheCryptOfDemos_collabcreditstags=
+bitspiecescollab_3_Expert_TheCryptOfDemos_collabcreditstags=
 Chained ultras
 Demodashing
 Dream hypers
-# poem_bitspiecescollab_5_Grandmaster_TheCryptOfDemos_A= Demo Spam doesn't make a good map
