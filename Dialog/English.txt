@@ -116,9 +116,7 @@ bitspiecescollab_2_Intermediate_CycleBattle_collabcredits=
 Map by Cdog
 Playtesting by St-Va1 & Olas
 bitspiecescollab_2_Intermediate_CycleBattle_collabcreditstags=
-Cycle HELL
-Badeline boss
-# todo: does this map need wavedashing or such?
+Wavedashing
 
 bitspiecescollab_2_Intermediate_FeatherFever= Feather Fever
 bitspiecescollab_2_Intermediate_FeatherFever_author= by ArvingoPro
@@ -138,7 +136,7 @@ Playtesting by bit, Cdog, and Mc2save
 bitspiecescollab_2_Intermediate_GoldenStar_collabcreditstags=
 Wavedashing
 Wall bounces
-Extra jump refills
+Extra jumps
 
 bitspiecescollab_2_Intermediate_StormyCity= Stormy City
 bitspiecescollab_2_Intermediate_StormyCity_author= by TheGamingLlama
@@ -147,7 +145,7 @@ Map by TheGamingLlama
 Playtesting by ST-Va1, Guynamedpie and arti
 bitspiecescollab_2_Intermediate_StormyCity_collabcreditstags=
 Hyperdashes
-Jelly Regrabs
+Jelly regrabs
 
 bitspiecescollab_2_Intermediate_Path_Of_The_Stars=Path of the Stars
 bitspiecescollab_2_Intermediate_Path_Of_The_Stars_author=by ender
