@@ -197,7 +197,7 @@ bitspiecescollab_2_Intermediate_cumulus_heights_collabcreditstags=
 Cloud dashing
 Neutral jellyfish boost
 
-bitspiecescollab_2_Intermediate_cumulus_heights_a1b_weather=
+bitspiecescollab_2_Intermediate_cumulus_heights_a1_weather=
 [webcam_theo right normal]
 ...and now for the Seattle weather
 It's gonna be pouring in Seattle for the next 17 weeks
