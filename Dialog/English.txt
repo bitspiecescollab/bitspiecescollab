@@ -134,7 +134,6 @@ bitspiecescollab_2_Intermediate_GoldenStar_collabcredits= Gameplay by Zen
 Deco by Zen
 Playtesting by bit, Cdog, and Mc2save
 bitspiecescollab_2_Intermediate_GoldenStar_collabcreditstags=
-Wavedashing
 Wall bounces
 Extra jumps
 
@@ -144,7 +143,7 @@ bitspiecescollab_2_Intermediate_StormyCity_collabcredits=
 Map by TheGamingLlama
 Playtesting by ST-Va1, Guynamedpie and arti
 bitspiecescollab_2_Intermediate_StormyCity_collabcreditstags=
-Hyperdashes
+Hyperdashing
 Jelly regrabs
 
 bitspiecescollab_2_Intermediate_Path_Of_The_Stars=Path of the Stars
