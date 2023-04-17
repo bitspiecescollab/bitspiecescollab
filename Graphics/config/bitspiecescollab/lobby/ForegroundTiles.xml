@@ -304,7 +304,10 @@
 
   <!-- 2-Intermediate -->
   <!-- GoldenStar -->
-  <Tileset id="L" copy="m" path="bitspiecescollab/GoldenStar/GoldenStarZen" sound="44" ignores="n"/>
+  <Tileset id="L" copy="z" path="bitspiecescollab/GoldenStar/GoldenStarZen" sound="44" ignores="n">
+    <set mask="padding" tiles="5,0;5,1;5,2;5,3;5,4;5,5"/>
+    <set mask="center" tiles="5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,6;5,7;5,8;5,9;5,10;5,11;5,13;5,14;5,7;5,8;5,9;5,10;5,11;5,13;5,14;5,12"/>
+  </Tileset>
 
   <!-- 3-Expert -->
   <!-- Flying_Fortress -->
