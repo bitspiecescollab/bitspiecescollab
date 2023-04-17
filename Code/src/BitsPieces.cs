@@ -33,9 +33,6 @@ namespace Celeste.Mod.BitsPieces {
     public override void Load() {
       Logger.Log(LogLevel.Info, "BitsPieces", $"Hooking CollabUtils2... fingers crossed this goes well!");
 
-      // CollabUtils2.LobbyHelper.GetLobbyForLevelSet("a");
-      // On.CollabUtils2.LobbyHelper.GetLobbyForLevelSet += GetLobbyForLevelSet;
-
       if (typeof(CollabUtils2.LobbyHelper).GetMethod("GetLobbyForLevelSet", BindingFlags.Public | BindingFlags.Static) == null) {
         Logger.Log(LogLevel.Error, "BitsPieces", $"Method public static CollabUtils2.LobbyHelper::GetLobbyForLevelSet was not found to hook. Not hooking! This will cause wierd shit when returning to lobby!");
       } else {
@@ -50,8 +47,7 @@ namespace Celeste.Mod.BitsPieces {
     public override void Initialize() {}
 
     // Optional, do anything requiring either the Celeste or mod content here.
-    public override void LoadContent(bool firstLoad) {
-    }
+    public override void LoadContent(bool firstLoad) {}
 
     // Unload the entirety of your mod's content. Free up any native resources.
     public override void Unload() {
@@ -69,7 +65,7 @@ namespace Celeste.Mod.BitsPieces {
     ) {
       if (levelSet.StartsWith($"{COLLAB_ID}/")) {
         string lobby;
-        // Don't set the lobby map of lobbies
+        // Don't set lobby map for lobbies; that just makes no damn sense
         if (levelSet.StartsWith($"{COLLAB_ID}/0-Lobbies")) {
           lobby = null;
         } else {
