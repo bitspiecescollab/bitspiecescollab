@@ -35,6 +35,7 @@
 
 - Name: bitspiecescollab
   Version: 1.0.0
+  DLL: Code/build/BitsPieces.dll
   Dependencies:
     - Name: Everest
       Version: 1.1888.0
