@@ -1,0 +1,6 @@
+Enable: true
+# ExcludedPrefixes:
+#   Gui:
+#     - MyCollab/DoNotLazyLoad/
+#   Gameplay:
+#     - decals/DoNotLazyLoad/
