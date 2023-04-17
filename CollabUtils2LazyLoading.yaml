@@ -1,4 +1,4 @@
-Enable: true
+Enable: false
 # ExcludedPrefixes:
 #   Gui:
 #     - MyCollab/DoNotLazyLoad/
