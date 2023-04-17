@@ -60,7 +60,7 @@ bitspiecescollab_0_Gyms_intermediate_bumper_boost=Bumper Boost{n}Puffer Boost
 bitspiecescollab_0_Gyms_intermediate_throwable_vator=Jelly Boost{n}Theo Boost
 
 
-# Beginner
+# Intermediate
 
 bitspiecescollab_2_Intermediate_Constellation_Core=Constellation Core
 bitspiecescollab_2_Intermediate_Constellation_Core_author=by Zen
@@ -105,8 +105,6 @@ bitspiecescollab_2_Intermediate_Myraid_Nebulae_collabcreditstags=
 ???
 ???
 ???
-
-# Intermediate
 
 bitspiecescollab_2_Intermediate_Ciudad=Ciudad
 
@@ -155,36 +153,6 @@ bitspiecescollab_2_Intermediate_Path_Of_The_Stars_collabcreditstags=
 Wavedashing
 Wall bounces
 Dream redirects
-
-
-# Advanced
-
-bitspiecescollab_3_Expert_boosteryeet=Bubble Yeet
-bitspiecescollab_3_Expert_boosteryeet_author=by bit
-bitspiecescollab_3_Expert_boosteryeet_collabcredits=
-Map by bit
-Decor by ...?
-Playtesting by Guynamedpie, arti,
-paulio & St-Val1
-bitspiecescollab_3_Expert_boosteryeet_collabcreditstags=
-Mid-air supers
-Reverse dashing
-Bubble dashing
-Block boosts
-bitspiecescollab_3_Expert_boosteryeet_b2_how=
-[madeline left normal]
-How did I get here lol
-bitspiecescollab_3_Expert_boosteryeet_b2_sus=
-[theo left normal]
-Holy shit {+MADELINE} is that a fucking among us reference
-[madeline right panic]
-noooooooooooooooo {+THEO}
-[theo left thinking]
-hehe
-[theo left normal]
-sus
-[madeline right panic]
-getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 bitspiecescollab_2_Intermediate_cumulus_heights=Cumulonimbus Heights
 bitspiecescollab_2_Intermediate_cumulus_heights_author=by bit
@@ -248,6 +216,33 @@ Well it's no umbrella, but it'll do
 
 # Expert
 
+bitspiecescollab_3_Expert_boosteryeet=Bubble Yeet
+bitspiecescollab_3_Expert_boosteryeet_author=by bit
+bitspiecescollab_3_Expert_boosteryeet_collabcredits=
+Map by bit
+Decor by ...?
+Playtesting by Guynamedpie, arti,
+paulio & St-Val1
+bitspiecescollab_3_Expert_boosteryeet_collabcreditstags=
+Mid-air supers
+Reverse dashing
+Bubble dashing
+Block boosts
+bitspiecescollab_3_Expert_boosteryeet_b2_how=
+[madeline left normal]
+How did I get here lol
+bitspiecescollab_3_Expert_boosteryeet_b2_sus=
+[theo left normal]
+Holy shit {+MADELINE} is that a fucking among us reference
+[madeline right panic]
+noooooooooooooooo {+THEO}
+[theo left thinking]
+hehe
+[theo left normal]
+sus
+[madeline right panic]
+getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 bitspiecescollab_3_Expert_Golden_Space=Golden Space
 bitspiecescollab_3_Expert_Golden_Space_author=By L5racer
 bitspiecescollab_3_Expert_Golden_Space_collabcredits=
@@ -309,9 +304,6 @@ bitspiecescollab_3_Expert_UltraLadder_collabcreditstags=
 ???
 ???
 ???
-
-
-# Grandmaster
 
 bitspiecescollab_3_Expert_Flying_Fortress=Flying Fortress
 bitspiecescollab_3_Expert_Flying_Fortress_author=by paulio
