@@ -1,5 +1,3 @@
-// todo: hook Celeste.Mod.CollabUtils2.LobbyHelper::GetLobbyForLevelSet to return the correct lobby
-
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -13,8 +11,6 @@ using MonoMod.Utils;
 using MonoMod.RuntimeDetour;
 
 using Celeste.Mod.UI;
-// using FMOD.Studio;
-// using Microsoft.Xna.Framework;
 using Monocle;
 using Celeste;
 
@@ -68,13 +64,14 @@ namespace Celeste.Mod.BitsPieces {
         // Don't set lobby map for lobbies; that just makes no damn sense
         if (levelSet.StartsWith($"{COLLAB_ID}/0-Lobbies")) {
           lobby = null;
+          Logger.Log(LogLevel.Info, "BitsPieces", $"Overriding CollabUtils2 levelset lobby: \"{levelSet}\" => null");
         } else {
           // Redirect all other maps back to our main lobby: gyms, maps, whatever
-          // If this map doesn't exist I'll eat my sock
+          // If this lobby map doesn't exist I'll eat my sock
           lobby = $"{COLLAB_ID}/0-Lobbies/1-Main";
+          Logger.Log(LogLevel.Info, "BitsPieces", $"Overriding CollabUtils2 levelset lobby: \"{levelSet}\" => \"{lobby}\"");
         }
 
-        Logger.Log(LogLevel.Info, "BitsPieces", $"GetLobbyForLevelSet('{levelSet}') => '{lobby}'");
         return lobby;
       }
 
