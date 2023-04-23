@@ -1,8 +1,16 @@
 bitspiecescollab_bitspiecescollab=Bits & Pieces Collab
 endscreen_bitspiecescollab_bitspiecescollab=Bits & Pieces
 
+shitsandpiecescollab_Bug_Bubbles_oshiro=
+{anchor bottom}
+[OSHIRO right sideworried]
+{+thought}Why did I think this was good idea?...{+endthought}
+[OSHIRO right sidesuspicious]
+{+thought}...going all the way up here...{+endthought}
+
+
 shitsandpiecescollab_Bug_Bubbles_note=
---Do note that this map may be impossible on some versions of Crystaline--      The bug involves exiting a Dream booster with a dash and entering a Boost Bumper, because of the two elements typically not being used together you are teleported to the exit point of the Dream booster.
+--Do note that this map may be impossible on some versions of Crystaline--{n}The bug involves exiting a Dream booster with a dash and entering a Boost Bumper, because of the two elements typically not being used together you are teleported to the exit point of the Dream booster.
 
 bitspiecescollab_0_Lobbies=Bits & Pieces Collab
 bitspiecescollab_0_Lobbies_0_Prologue=Prologue
