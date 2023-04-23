@@ -7,6 +7,12 @@
 # Lobbies
 # AdvancedLobby: MaxHelpingHand
 
+# Tmp maps
+# Time_Tower: MaxHelpingHand, CommunalHelper, CrystallineHelper, FemtoHelper
+# Lunar Grotto: ExtendedVariants, FlaglinesAndSuch, MaxHelpingHand, DJMapHelper
+# Triplicated: MoreDasheline, Sardine7 (Helper???), FrostHelper, AdventureHelper
+# todo: replace with ExtendedVariants
+
 # Beginner maps
 # MyraidNebulae: GravityHelper, CommunalHelper, MaxHelpingHand, SorbetHelper
 
@@ -100,3 +106,7 @@
       Version: 1.1.28
     - Name: YetAnotherHelper
       Version: 1.2.4
+    - Name: CrystallineHelper
+      Version: 1.12.3
+    - Name: FemtoHelper
+      Version: 1.7.0
