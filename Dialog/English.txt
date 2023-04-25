@@ -1,24 +1,6 @@
 bitspiecescollab_bitspiecescollab=Bits & Pieces Collab
 endscreen_bitspiecescollab_bitspiecescollab=Bits & Pieces
 
-shitsandpiecescollab_Bug_Bubbles_oshiro=
-{anchor bottom}
-[OSHIRO right sideworried]
-{+thought}Why did I think this was good idea?...{+endthought}
-[OSHIRO right sidesuspicious]
-{+thought}...going all the way up here...{+endthought}
-
-shitsandpiecescollab_Bug_Bubbles_oshiro2=
-{anchor bottom}
-[OSHIRO right sideworried]
-{+thought}...I've got to work faster before the guests arive...{+endthought}
-[OSHIRO right drama]
-{+thought}...What if they don't notice?...{+endthought}
-
-
-shitsandpiecescollab_Bug_Bubbles_note=
---Do note that this map may be impossible on some versions of Crystaline--{n}The bug involves exiting a Dream booster with a dash and entering a Boost Bumper, because of the two elements typically not being used together you are teleported to the exit point of the Dream booster.
-
 bitspiecescollab_0_Lobbies=Bits & Pieces Collab
 bitspiecescollab_0_Lobbies_0_Prologue=Prologue
 bitspiecescollab_0_Lobbies_1_Main=Lobby
@@ -26,6 +8,9 @@ bitspiecescollab_0_Lobbies_2_Intermediate=Intermediate
 bitspiecescollab_0_Lobbies_2_Intermediate_journal=Intermediate Maps
 bitspiecescollab_0_Lobbies_3_Expert=Expert
 bitspiecescollab_0_Lobbies_3_Expert_journal=Expert Maps
+
+bitspiecescollab_0_Lobbies_1_Main_thanksforplaying=Thanks for playing :D
+
 
 poem_bitspiecescollab_0_Lobbies_69_debug_A=Pog poggers
 
@@ -82,15 +67,7 @@ bitspiecescollab_0_Gyms_intermediate_bumper_boost=Bumper Boost{n}Puffer Boost
 bitspiecescollab_0_Gyms_intermediate_throwable_vator=Jelly Boost{n}Theo Boost
 
 # TEMP
-bitspiecescollab_0_Tmp_Time_Tower=Bug Bubbles
-bitspiecescollab_0_Tmp_Time_Tower_author=by Zen
-bitspiecescollab_0_Tmp_Time_Tower_collabcredits=
-Map & Decor by Zen
-Playtesting by Bit
-bitspiecescollab_0_Tmp_Time_Tower_collabcreditstags=
-Buggy
-Dream Boosters
-Space Jam
+
 
 
 # Intermediate
@@ -173,6 +150,35 @@ Map by Cdog
 Playtesting by St-Va1 & Olas
 bitspiecescollab_2_Intermediate_CycleBattle_collabcreditstags=
 Wavedashing
+
+
+bitspiecescollab_2_Intermediate_Bug_Bubbles=Bug Bubbles
+bitspiecescollab_2_Intermediate_Bug_Bubbles_author=by Zen
+bitspiecescollab_2_Intermediate_Bug_Bubbles_collabcredits=
+Map & Decor by Zen
+Playtesting by Bit
+bitspiecescollab_2_Intermediate_Bug_Bubbles_collabcreditstags=
+Buggy
+Dream Boosters
+Space Jam
+
+shitsandpiecescollab_Bug_Bubbles_oshiro=
+{anchor bottom}
+[OSHIRO right sideworried]
+{+thought}Why did I think this was good idea?...{+endthought}
+[OSHIRO right sidesuspicious]
+{+thought}...going all the way up here...{+endthought}
+
+shitsandpiecescollab_Bug_Bubbles_oshiro2=
+{anchor bottom}
+[OSHIRO right sideworried]
+{+thought}...I've got to work faster before the guests arive...{+endthought}
+[OSHIRO right drama]
+{+thought}...What if they don't notice?...{+endthought}
+
+shitsandpiecescollab_Bug_Bubbles_note=
+Do note that this map may be impossible on some versions of Crystaline.{n}{n}The bug involves exiting a Dream booster with a dash and entering a Boost Bumper, because of the two elements typically not being used together you are teleported to the exit point of the Dream booster.
+
 
 bitspiecescollab_2_Intermediate_FeatherFever=Feather Fever
 bitspiecescollab_2_Intermediate_FeatherFever_author=by ArvingoPro
