@@ -84,7 +84,7 @@ bitspiecescollab_2_Intermediate_FrigidCity=Frigid City
 bitspiecescollab_2_Intermediate_FrigidCity_author=by ArvingoPro
 bitspiecescollab_2_Intermediate_FrigidCity_collabcredits=
 Map by ArvingoPro
-Playtesting by St-Va1, arti
+Playtesting by St-Va1 & arti
 # bitspiecescollab_2_Intermediate_FrigidCity_collabcreditstags=
 # No tech
 
@@ -128,7 +128,8 @@ bitspiecescollab_2_Intermediate_GoldenStar=Stars of the Golden Planet
 bitspiecescollab_2_Intermediate_GoldenStar_author=by Zen
 bitspiecescollab_2_Intermediate_GoldenStar_collabcredits=
 Map by Zen
-Playtesting by aquarye, bit, Cdog, enber, St-Va1 & Mc2save
+Playtesting by aquarye, bit,
+Cdog, enber, St-Va1, Mc2save
 bitspiecescollab_2_Intermediate_GoldenStar_collabcreditstags=
 Dream jump
 Wall bounces
@@ -139,7 +140,7 @@ bitspiecescollab_2_Intermediate_MyriadNebulae_author=by TheGamingLlama
 bitspiecescollab_2_Intermediate_MyriadNebulae_collabcredits=
 Map by TheGamingLlama
 Decor by Zen
-Playtesting by ethio, arti & St-Va1
+Playtesting by ethio, arti, St-Va1
 bitspiecescollab_2_Intermediate_MyriadNebulae_collabcreditstags=
 Dream jump
 
@@ -255,7 +256,7 @@ bitspiecescollab_2_Intermediate_StormyCity=Stormy City
 bitspiecescollab_2_Intermediate_StormyCity_author=by TheGamingLlama
 bitspiecescollab_2_Intermediate_StormyCity_collabcredits=
 Map by TheGamingLlama
-Playtesting by St-Va1, Guynamedpie & arti
+Playtesting by St-Va1, Guynamedpie, arti
 bitspiecescollab_2_Intermediate_StormyCity_collabcreditstags=
 Hyperdashing
 Jelly regrabs
@@ -288,7 +289,7 @@ bitspiecescollab_3_Expert_boosteryeet_author=by bit
 bitspiecescollab_3_Expert_boosteryeet_collabcredits=
 Map by bit
 Playtesting by Guynamedpie, arti,
-paulio & St-Val1
+paulio, St-Val1
 bitspiecescollab_3_Expert_boosteryeet_collabcreditstags=
 Mid-air supers
 Reverse dashing
@@ -348,7 +349,8 @@ bitspiecescollab_3_Expert_Cyber_Space=Cyber Space
 bitspiecescollab_3_Expert_Cyber_Space_author=by enber
 bitspiecescollab_3_Expert_Cyber_Space_collabcredits=
 Map by enber
-Playtesting by arti, aquarye, Buddermario7, enber, Rosalinor, paulvonhooverIII
+Playtesting by arti, aquarye, enber
+Buddermario7, Rosalinor, paulio
 bitspiecescollab_3_Expert_Cyber_Space_collabcreditstags=
 Ultradashing
 Corner boosts
@@ -358,8 +360,8 @@ bitspiecescollab_3_Expert_UltraLadder=Ultra Ladder
 bitspiecescollab_3_Expert_UltraLadder_author=by ArvingoPro
 bitspiecescollab_3_Expert_UltraLadder_collabcredits=
 Map by ArvingoPro
-Deco by paulvonhooverIII
-Playtesting by arti, St-Va1
+Deco by paulio
+Playtesting by arti, St-Va1, aquarye
 bitspiecescollab_3_Expert_UltraLadder_collabcreditstags=
 Ultradashing
 ???
@@ -369,7 +371,8 @@ bitspiecescollab_3_Expert_Flying_Fortress=Flying Fortress
 bitspiecescollab_3_Expert_Flying_Fortress_author=by paulio
 bitspiecescollab_3_Expert_Flying_Fortress_collabcredits=
 Map by paulio
-Playtesting by Mc2save, Kiwilot, arti, St-Va1
+Playtesting by arti, St-Va1,
+Kiwilot, Mc2save
 bitspiecescollab_3_Expert_Flying_Fortress_collabcreditstags=
 ???
 ???
@@ -379,7 +382,7 @@ bitspiecescollab_3_Expert_Spacious_Acceleration=Spacious Acceleration
 bitspiecescollab_3_Expert_Spacious_Acceleration_author=by paulio
 bitspiecescollab_3_Expert_Spacious_Acceleration_collabcredits=
 Map by paulio
-Playtesting by St-Va1,
+Playtesting by St-Va1, arti, Guynamedpie
 bitspiecescollab_3_Expert_Spacious_Acceleration_collabcreditstags=
 Ultradashing
 ???
@@ -390,7 +393,7 @@ bitspiecescollab_3_Expert_TheCryptOfDemos_author=by Mc2save
 bitspiecescollab_3_Expert_TheCryptOfDemos_collabcredits=
 Map by Mc2save
 Decor by ???
-Playtesting by Viddie, Nibblz & bit
+Playtesting by Viddie, Nibblz, bit
 bitspiecescollab_3_Expert_TheCryptOfDemos_collabcreditstags=
 Chained ultras
 Demodashing
