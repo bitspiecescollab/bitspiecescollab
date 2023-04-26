@@ -369,7 +369,7 @@ bitspiecescollab_3_Expert_Flying_Fortress=Flying Fortress
 bitspiecescollab_3_Expert_Flying_Fortress_author=by paulio
 bitspiecescollab_3_Expert_Flying_Fortress_collabcredits=
 Map by paulio
-Playtesting by Mc2save
+Playtesting by Mc2save, Kiwilot, arti, St-Va1
 bitspiecescollab_3_Expert_Flying_Fortress_collabcreditstags=
 ???
 ???
@@ -399,5 +399,4 @@ Dream hypers
 # volcanic city playtesters: Guynamedpie, aquarye, St-Va1
 # puzzle pieces playtesters: bit, arti, cdog
 # gym playtesters: arti, TheGamingLlama
-# the paulio map that is black/blue tileset playtesters: Kiwilot, arti, St-Va1
 # bubble2 playtesters: St-Va1
