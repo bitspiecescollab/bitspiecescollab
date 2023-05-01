@@ -1,0 +1,20 @@
+<decals>
+	<decal path="GhostHouse/Lamp_">
+		<light offsetY="-1" offsetX="-1" startFade="30" color="ffffff" alpha="0.6"/>
+		<light offsetY="-1" offsetX="-1" startFade="10" color="ffffff" alpha="0.8"/>
+    </decal>
+	
+	<decal path="GhostHouse/Vent_A">
+		<overlay/>
+    </decal>
+	
+	<decal path="GhostHouse/TreeBG_*">
+		<depth value="11000"/>
+		<parallax amount="0.05"/>
+    </decal>
+	
+	<decal path="GhostHouse/chain_Full">
+		<depth value="11000"/>
+		<parallax amount="0.1"/>
+    </decal>
+</decals>
