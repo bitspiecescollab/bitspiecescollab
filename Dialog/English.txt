@@ -6,11 +6,9 @@ bitspiecescollab_0_Lobbies_0_Prologue=Prologue
 bitspiecescollab_0_Lobbies_1_Main=Lobby
 bitspiecescollab_0_Lobbies_2_Intermediate=Intermediate
 bitspiecescollab_0_Lobbies_2_Intermediate_journal=Intermediate Maps
+poem_bitspiecescollab_0_Lobbies_2_Intermediate_A=Thanks for playing :D
 bitspiecescollab_0_Lobbies_3_Expert=Expert
 bitspiecescollab_0_Lobbies_3_Expert_journal=Expert Maps
-
-bitspiecescollab_0_Lobbies_1_Main_thanksforplaying=Thanks for playing :D
-
 
 poem_bitspiecescollab_0_Lobbies_69_debug_A=Pog poggers
 
