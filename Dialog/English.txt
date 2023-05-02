@@ -277,7 +277,7 @@ bitspiecescollab_3_Expert_Golden_Space=Golden Space
 bitspiecescollab_3_Expert_Golden_Space_author=By L5racer
 bitspiecescollab_3_Expert_Golden_Space_collabcredits=
 Map by L5racer
-Playtesting by arti & St-Va1
+Playtesting by arti, St-Va1, bit
 bitspiecescollab_3_Expert_Golden_Space_collabcreditstags=
 Puffer Boost
 Puffer Super
