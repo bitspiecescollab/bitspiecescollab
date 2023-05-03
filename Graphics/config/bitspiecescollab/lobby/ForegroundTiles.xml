@@ -320,4 +320,6 @@
   <Tileset id="o" copy="z" path="bitspiecescollab/TheCryptOfDemos/overgrownGirder" sound="7"/>
 	<Tileset id="O" copy="z" path="bitspiecescollab/TheCryptOfDemos/overgrownCement" sound="1"/>
 	<Tileset id="p" copy="l" path="bitspiecescollab/TheCryptOfDemos/overgrownGrass" sound="33" ignores="*"/>
+	<!-- Top ten ghosts of all time -->
+	<Tileset id="T" copy="y" path="bitspiecescollab/GhostHouse/GhostBrick_A" sound="13"/>
 </Data>

@@ -134,4 +134,6 @@
   <Tileset id="d" copy="z" path="bgCore"/>
   <Tileset id="e" copy="z" path="bgLostLevels"/>
   <Tileset id="I" copy="z" path="bitspiecescollab/GoldenStar/bgGoldenStarZen"/>
+  <!-- Top ten ghosts of all time -->
+  <Tileset id="Y" copy="z" path="bitspiecescollab/GhostHouse/bgGhostBrick"/>
 </Data>
