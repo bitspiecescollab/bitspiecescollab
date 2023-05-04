@@ -277,7 +277,7 @@ bitspiecescollab_3_Expert_Golden_Space=Golden Space
 bitspiecescollab_3_Expert_Golden_Space_author=By L5racer
 bitspiecescollab_3_Expert_Golden_Space_collabcredits=
 Map by L5racer
-Playtesting by arti, St-Va1, bit
+Playtesting by arti, St-Va1, Evilcat, bit
 bitspiecescollab_3_Expert_Golden_Space_collabcreditstags=
 Puffer Boost
 Puffer Super
@@ -336,7 +336,7 @@ bitspiecescollab_3_Expert_MythrilMine_author=by Jess
 bitspiecescollab_3_Expert_MythrilMine_collabcredits=
 Map by Jess
 Decor by ???
-Playtesting by ???
+Playtesting by bit, Anilate
 bitspiecescollab_3_Expert_MythrilMine_collabcreditstags=
 Dream hypers
 Hyper bunnyhops
@@ -401,3 +401,4 @@ Dream hypers
 # puzzle pieces playtesters: bit, arti, cdog
 # gym playtesters: arti, TheGamingLlama
 # bubble2 playtesters: St-Va1
+# ghost house audio: coolbread
