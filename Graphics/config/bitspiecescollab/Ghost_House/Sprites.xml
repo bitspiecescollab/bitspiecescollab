@@ -463,18 +463,18 @@
 		<Loop id="flap" path="wings" delay=".08" frames="0-8,0-8,0-7,9" />
 	</goldghostberry>
 
-  <moonberry path="collectables/moonberry/" start="idle">
+  <moonberry path="Moon_Berry_Berry/Ghost_House/" start="idle">
     <Center />
     
     <Loop id="idle" path="normal" delay=".1" frames="0-47" />
     <Anim id="collect" path="normal" delay=".07" frames="48-51"/>
   </moonberry>
 
-  <moonghostberry path="collectables/moonberry/" start="idle">
+  <moonghostberry path="Moon_Berry_Berry/Ghost_House/" start="idle">
     <Center />
     
-    <Loop id="idle" path="ghost" delay=".1" frames="0-47" />
-    <Anim id="collect" path="ghost" delay=".07" frames="48-51"/>
+    <Loop id="idle" path="normal" delay=".1" frames="0-47" />
+    <Anim id="collect" path="normal" delay=".07" frames="48-51"/>
   </moonghostberry>
 
   <cassette path="collectables/cassette/" start="idle">
