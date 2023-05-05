@@ -4,7 +4,7 @@
 		<light offsetY="-1" offsetX="-1" startFade="10" color="ffffff" alpha="0.8"/>
     </decal>
 	
-	<decal path="GhostHouse/fireplace*">
+	<decal path="GhostHouse/fireplace">
 		<light offsetY="-1" offsetX="-1" startFade="50" color="ffffff" alpha="0.6"/>
 		<light offsetY="10" offsetX="-1" startFade="20" color="ffffff" alpha="0.8"/>
     </decal>

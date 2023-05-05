@@ -303,5 +303,6 @@
   <Tileset id="n" copy="z" path="scifi"/>
 
   <Tileset id="T" copy="y" path="bitspiecescollab/GhostHouse/GhostBrick_A" sound="13"/>
+  <Tileset id="U" copy="y" path="bitspiecescollab/GhostHouse/GhostBrick_B" sound="13"/>
 
 </Data>
