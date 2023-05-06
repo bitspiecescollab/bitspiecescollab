@@ -1,6 +1,10 @@
 --- Coroutine that is called when the cutscene starts.
 -- This invloves stuff like walking, jumping, displaying text boxes, etc.
 function onBegin()
+  if getFlag("c0_dialog_done") then
+    return
+  end
+
   disableMovement()
   wait(0.7)
   if getFlag("saw_theo") then
@@ -20,6 +24,7 @@ function onTalk() end
 -- @tparam #Celeste.Level room Current room.
 -- @bool wasSkipped If the cutscene was skipped.
 function onEnd(room, wasSkipped)
+  setFlag("c0_dialog_done", true)
   enableMovement()
 end
 

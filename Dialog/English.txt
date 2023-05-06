@@ -193,7 +193,7 @@ bitspiecescollab_2_Intermediate_cumulus_heights=Cumulonimbus Heights
 bitspiecescollab_2_Intermediate_cumulus_heights_author=by bit
 bitspiecescollab_2_Intermediate_cumulus_heights_collabcredits=
 Map by bit
-Playtesting by ???
+Playtesting by Evilcat
 bitspiecescollab_2_Intermediate_cumulus_heights_collabcreditstags=
 Hyperdashing
 Superdashing
@@ -228,7 +228,7 @@ Sure lol
 
 bitspiecescollab_2_Intermediate_cumulus_heights_c1_umbrella=
 [madeline left sad]
-I didn't see this coming
+I didn't see this rain coming
 [badeline right scoff]
 Looks like that crazy weather man was right
 [madeline left angry]
@@ -237,7 +237,7 @@ Bruh my hair is getting soaked
 
 bitspiecescollab_2_Intermediate_cumulus_heights_c1_umbrella_alt=
 [madeline left sad]
-I didn't see this coming
+I didn't see this rain coming
 [badeline right scoff]
 Professional speedrunner you are...
 Looks like {+THEO} was right
