@@ -113,7 +113,7 @@ bitspiecescollab_2_Intermediate_Jump_Complex_Big_Saddy_2=
 
 
 bitspiecescollab_2_Intermediate_Path_of_The_Stars=Path of the Stars
-bitspiecescollab_2_Intermediate_Path_of_The_Stars_author=by enber
+bitspiecescollab_2_Intermediate_Path_of_The_Stars_author=by Enber
 bitspiecescollab_2_Intermediate_Path_of_The_Stars_collabcredits=
 Map by enber
 Playtesting by paulio & bit
@@ -121,6 +121,20 @@ bitspiecescollab_2_Intermediate_Path_of_The_Stars_collabcreditstags=
 Dream jump
 Dream redirects
 Wall bounces
+
+bitspiecescollab_2_Intermediate_Ghost_House_SMW=Paranormal Parking Lot
+bitspiecescollab_2_Intermediate_Ghost_House_SMW_author=by Zen
+bitspiecescollab_2_Intermediate_Ghost_House_SMW_collabcredits=
+Map by Zen
+Deco by Zen
+Playtesting by Evilcat & Bit & ZKB & Zen
+"Hell nawh I got a Paranormal Parking Ticket"
+bitspiecescollab_2_Intermediate_Ghost_House_SMW_collabcreditstags=
+Spring-Cancels
+Spike Pillars
+Wave-Dashing
+Wall-Bouncing
+Ghosts (or not)
 
 bitspiecescollab_2_Intermediate_GoldenStar=Stars of the Golden Planet
 bitspiecescollab_2_Intermediate_GoldenStar_author=by Zen
