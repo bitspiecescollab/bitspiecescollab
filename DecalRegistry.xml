@@ -9,6 +9,11 @@
 		<light offsetY="10" offsetX="-1" startFade="20" color="ffffff" alpha="0.8"/>
     </decal>
 	
+	<decal path="GhostHouse/Summoning_Circle/CandleA">
+		<light offsetY="-3" offsetX="-1" startFade="10" color="ff7066" alpha="0.5"/>
+		<light offsetY="-3" offsetX="-1" startFade="5" color="ff7066" alpha="0.7"/>
+    </decal>
+	
 	<decal path="GhostHouse/Vent_A">
 		<overlay/>
     </decal>

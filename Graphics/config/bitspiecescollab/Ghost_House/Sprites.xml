@@ -358,7 +358,7 @@
     <Loop id="idle_ground" path="oshiro" delay="0.09" frames="82-86" />
   </oshiro>
   
-  <oshiro_boss path="characters/oshiro/" start="transformStart">
+  <oshiro_boss path="ghost_Fatty_Pig_Hog_Rider/" start="transformStart">
     <Justify x=".5" y=".5" />
 
     <Anim id="transformStart" path="oshiro" delay="0.07" frames="53-57" goto="transformCharge"/>
