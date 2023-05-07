@@ -64,12 +64,12 @@ namespace Celeste.Mod.BitsPieces {
         // Don't set lobby map for lobbies; that just makes no damn sense
         if (levelSet.StartsWith($"{COLLAB_ID}/0-Lobbies")) {
           lobby = null;
-          Logger.Log(LogLevel.Info, "BitsPieces", $"Overriding CollabUtils2 levelset lobby: \"{levelSet}\" => null");
+          Logger.Log(LogLevel.Debug, "BitsPieces", $"Overriding CollabUtils2 levelset lobby: \"{levelSet}\" => null");
         } else {
           // Redirect all other maps back to our main lobby: gyms, maps, whatever
           // If this lobby map doesn't exist I'll eat my sock
           lobby = $"{COLLAB_ID}/0-Lobbies/1-Main";
-          Logger.Log(LogLevel.Info, "BitsPieces", $"Overriding CollabUtils2 levelset lobby: \"{levelSet}\" => \"{lobby}\"");
+          Logger.Log(LogLevel.Debug, "BitsPieces", $"Overriding CollabUtils2 levelset lobby: \"{levelSet}\" => \"{lobby}\"");
         }
 
         return lobby;
