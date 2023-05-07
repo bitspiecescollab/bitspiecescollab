@@ -4,13 +4,11 @@ endscreen_bitspiecescollab_bitspiecescollab=Bits & Pieces
 bitspiecescollab_0_Lobbies=Bits & Pieces Collab
 bitspiecescollab_0_Lobbies_0_Prologue=Prologue
 bitspiecescollab_0_Lobbies_1_Main=Lobby
+poem_bitspiecescollab_0_Lobbies_1_Main_A=Thanks for playing :D
 bitspiecescollab_0_Lobbies_2_Intermediate=Intermediate
 bitspiecescollab_0_Lobbies_2_Intermediate_journal=Intermediate Maps
-poem_bitspiecescollab_0_Lobbies_2_Intermediate_A=Thanks for playing :D
 bitspiecescollab_0_Lobbies_3_Expert=Expert
 bitspiecescollab_0_Lobbies_3_Expert_journal=Expert Maps
-
-poem_bitspiecescollab_0_Lobbies_69_debug_A=Pog poggers
 
 # Gyms
 
