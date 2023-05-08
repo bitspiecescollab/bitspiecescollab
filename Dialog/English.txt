@@ -10,6 +10,8 @@ bitspiecescollab_0_Lobbies_2_Intermediate_journal=Intermediate Maps
 bitspiecescollab_0_Lobbies_3_Expert=Expert
 bitspiecescollab_0_Lobbies_3_Expert_journal=Expert Maps
 
+shitsandpiecescollab_PARKING_TICKET= Average Madeline L
+
 # Gyms
 
 bitspiecescollab_0_Gyms_gym=Gym
