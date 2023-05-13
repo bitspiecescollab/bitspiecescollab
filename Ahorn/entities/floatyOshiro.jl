@@ -4,9 +4,17 @@ module CustomOshiroFloatyOshiro
   @mapdef Entity "CustomOshiro/FloatyOshiro" FloatyOshiro(
     x::Integer, y::Integer,
     speed::Number=1.0,
-    color::String="ffffffff",
-    texture::String="characters/oshiro",
+    flag::String="",
+    recolor::String="#FFFFFFFF",
+    texture::String="oshiro_boss",
+    fadeSpeed::Number=0.75,
     hitboxRadius::Number=14.0,
+    framesPerParticle::Int=3,
+    particleRadius::Number=10.0,
+    particleColor1::String="#44B7FF",
+    particleColor2::String="#75C9FF",
+    enabled::Bool=true,
+    noLighting::Bool=false
   )
 
   const placements = Ahorn.PlacementDict(
@@ -26,7 +34,8 @@ module CustomOshiroFloatyOshiro
   Ahorn.nodeLimits(entity::FloatyOshiro) = 2, 2
 
   function Ahorn.selection(entity::FloatyOshiro)
-    sprite = strip(get(entity.data, "texture", "characters/oshiro"), '/') * "/boss13.png"
+    # sprite = strip(get(entity.data, "texture", "characters/oshiro"), '/') * "/boss13.png"
+    sprite = "characters/oshiro/boss13.png"
 
     nodes = get(entity.data, "nodes", ())
     x, y = Ahorn.position(entity)
@@ -41,7 +50,9 @@ module CustomOshiroFloatyOshiro
   end
 
   function Ahorn.render(ctx::Ahorn.Cairo.CairoContext, entity::FloatyOshiro, room::Maple.Room)
-    sprite = strip(get(entity.data, "texture", "characters/oshiro"), '/') * "/boss13.png"
+    # sprite = strip(get(entity.data, "texture", "characters/oshiro"), '/') * "/boss13.png"
+    sprite = "characters/oshiro/boss13.png"
+
     Ahorn.drawSprite(ctx, sprite, 0, 0)
 
     nodes = get(entity.data, "nodes", ())

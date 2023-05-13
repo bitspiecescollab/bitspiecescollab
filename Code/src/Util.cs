@@ -27,7 +27,7 @@ namespace Celeste.Mod.CustomOshiro {
       return $"#{color.R:x2}{color.G:x2}{color.B:x2}{color.A:x2}";
     }
 
-    public static Color HexToColorA(this string hex) {
+    public static Color HexToColor(this string hex) {
       hex = hex.TrimStart('#');
       if (hex.Length < 6) {
         // todo: wtf
@@ -42,7 +42,11 @@ namespace Celeste.Mod.CustomOshiro {
         return new Color(r, g, b);
       }
       float a = (float)(Calc.HexToByte(hex[6]) * 16 + Calc.HexToByte(hex[7])) / 255f;
-      return new Color(r, g, b, a);
+      return new Color(r, g, b) * a;
+    }
+
+    public static float MonocleAngle(this Vector2 vec) {
+      return (float) ((Math.Atan2(vec.Y, vec.X) + (Math.PI * 2f)) % (Math.PI * 2f));
     }
   }
 }
