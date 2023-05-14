@@ -44,7 +44,11 @@ namespace Celeste.Mod.CustomOshiro {
     public Color recolor;
 
     private Tween fadeTween;
-    private float fadeEased = 0f;
+    private float fadeEased;
+
+    private Tween wobbleTween;
+    private float wobbleSpeed;
+    private float wobbleAmplitude;
 
     public int framesPerParticle;
     public float particleRadius;
@@ -73,6 +77,13 @@ namespace Celeste.Mod.CustomOshiro {
         this.fadeEased = t.Eased;
       };
 
+      this.wobbleSpeed = data.Float("wobbleSpeed", 0.75f);
+      this.wobbleAmplitude = data.Float("wobbleAmplitude", 3f * 8);
+      base.Add(this.wobbleTween = Tween.Create(
+        Tween.TweenMode.Looping, Ease.SineInOut, this.wobbleSpeed
+      ));
+      this.wobbleTween.Start();
+
       this.ratio = (data.Position - this.from).Length() / (this.to - this.from).Length();
       this.ratio = this.ratio.Clamp(0f, 1f);
 
@@ -88,6 +99,8 @@ namespace Celeste.Mod.CustomOshiro {
         base.Remove(this.Sprite);
         base.Add(this.Sprite = GFX.SpriteBank.Create(texture));
       }
+
+      this.Sprite.FlipX = this.to.X < this.from.X;
 
       bool noLight = data.Bool("noLighting", false);
       if (noLight) {
@@ -238,7 +251,11 @@ namespace Celeste.Mod.CustomOshiro {
     public Vector2 computePos() {
       Vector2 ray_delta = this.to - this.from;
       ray_delta *= ratio;
-      return this.from + ray_delta;
+
+      Vector2 pos = this.from + ray_delta;
+      Vector2 wobble = ray_delta.Perpendicular() * this.wobbleTween.Eased * this.wobbleAmplitude;
+
+      return pos + wobble;
     }
 
     private static IEnumerator onChaseCoroutine(

@@ -13,6 +13,8 @@ module CustomOshiroFloatyOshiro
     particleRadius::Number=10.0,
     particleColor1::String="#44B7FF",
     particleColor2::String="#75C9FF",
+    wobbleSpeed::Number=2.0,
+    wobbleAmplitude::Number=3.0,
     enabled::Bool=true,
     noLighting::Bool=false
   )
