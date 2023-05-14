@@ -17,7 +17,7 @@ using Celeste;
 using Celeste.Mod.CollabUtils2;
 
 namespace Celeste.Mod.BitsPieces {
-  public class BitsPiecesModule : EverestModule {
+  public class BitsPiecesModule {
     public static BitsPiecesModule Instance;
     public BitsPiecesModule() { Instance = this; }
 
@@ -26,7 +26,7 @@ namespace Celeste.Mod.BitsPieces {
 
 
     // Load runs before Celeste itself has initialized properly.
-    public override void Load() {
+    public void Load() {
       Logger.Log(LogLevel.Info, "BitsPieces", $"Hooking CollabUtils2... fingers crossed this goes well!");
 
       if (typeof(CollabUtils2.LobbyHelper).GetMethod("GetLobbyForLevelSet", BindingFlags.Public | BindingFlags.Static) == null) {
@@ -40,13 +40,13 @@ namespace Celeste.Mod.BitsPieces {
     }
 
     // Optional, initialize anything after Celeste has initialized itself properly.
-    public override void Initialize() {}
+    public void Initialize() {}
 
     // Optional, do anything requiring either the Celeste or mod content here.
-    public override void LoadContent(bool firstLoad) {}
+    public void LoadContent(bool firstLoad) {}
 
     // Unload the entirety of your mod's content. Free up any native resources.
-    public override void Unload() {
+    public void Unload() {
       Logger.Log(LogLevel.Info, "BitsPieces", $"Dropping hooks...");
 
       if (hook_GetLobbyForLevelSet != null) {
