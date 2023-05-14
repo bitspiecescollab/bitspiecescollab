@@ -31,3 +31,7 @@ release: clean
 # present for linking.
 strip:
 	for file in Code/lib/*.dll; do mono-cil-strip "$$file"; done
+
+package: release
+	git archive --format=zip -9 -o BitsPiecesCollab.zip HEAD \
+	  --add-file Code/build/BitsPieces.dll
