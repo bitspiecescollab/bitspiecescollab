@@ -1,4 +1,4 @@
-module BitsPieces.FloatyOshiro
+module BitsPiecesFloatyOshiro
   using ..Ahorn, Maple
 
   @mapdef Entity "BitsPieces/FloatyOshiro" FloatyOshiro(
