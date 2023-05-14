@@ -1,5 +1,5 @@
 bitspiecescollab_bitspiecescollab=Bits & Pieces Collab
-endscreen_collabname_bitspiecescollab=Bits & Pieces
+endscreen_collabname_bitspiecescollab=Bits&Pieces
 
 bitspiecescollab_0_Lobbies=Bits & Pieces Collab
 bitspiecescollab_0_Lobbies_0_Prologue=Prologue
