@@ -30,7 +30,7 @@ namespace Celeste.Mod.CustomOshiro {
     public static Color HexToColor(this string hex) {
       hex = hex.TrimStart('#');
       if (hex.Length < 6) {
-        // todo: wtf
+        throw new IndexOutOfRangeException("Hex colors must contain at least 6 characters.");
         return Color.White;
       }
 
@@ -41,11 +41,13 @@ namespace Celeste.Mod.CustomOshiro {
       if (hex.Length < 8) {
         return new Color(r, g, b);
       }
+
       float a = (float)(Calc.HexToByte(hex[6]) * 16 + Calc.HexToByte(hex[7])) / 255f;
+      // premultiply the alpha
       return new Color(r, g, b) * a;
     }
 
-    public static float MonocleAngle(this Vector2 vec) {
+    public static float Angle(this Vector2 vec) {
       return (float) ((Math.Atan2(vec.Y, vec.X) + (Math.PI * 2f)) % (Math.PI * 2f));
     }
 

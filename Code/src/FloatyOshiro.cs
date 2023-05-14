@@ -275,7 +275,7 @@ namespace Celeste.Mod.CustomOshiro {
           self_o.CenterY = pos.Y;
 
           if (Engine.FrameCounter % (ulong) self_o.framesPerParticle == 0) {
-            self_o.trailParticle.Direction = (self_o.from - self_o.to).MonocleAngle();
+            self_o.trailParticle.Direction = (self_o.from - self_o.to).Angle();
             (self_o.Scene as Level).Particles.Emit(
               type: self_o.trailParticle,
               amount: 1,
