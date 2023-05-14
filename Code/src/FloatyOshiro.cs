@@ -66,6 +66,8 @@ namespace Celeste.Mod.BitsPieces {
       this.flag = data.Attr("flag", null);
       this.flag = this.flag == "" ? null : this.flag;
 
+      base.StopControllingTime();
+
       base.Add(this.fadeTween = Tween.Create(
         Tween.TweenMode.Persist, Ease.QuadIn, this.fadeSpeed
       ));
