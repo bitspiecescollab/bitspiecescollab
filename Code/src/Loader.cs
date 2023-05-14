@@ -2,7 +2,7 @@ using FloatyOshiroC = Celeste.Mod.BitsPieces.FloatyOshiro;
 
 namespace Celeste.Mod.BitsPieces {
   public class LoaderModule : EverestModule {
-    public BitsPiecesModule BitsPiecesInstance;
+    public BitsPiecesModule BitsPiecesInstance = new BitsPiecesModule();
 
     // Load runs before Celeste itself has initialized properly.
     public override void Load() {
