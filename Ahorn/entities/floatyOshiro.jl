@@ -1,7 +1,7 @@
-module CustomOshiroFloatyOshiro
+module BitsPieces.FloatyOshiroFloatyOshiro
   using ..Ahorn, Maple
 
-  @mapdef Entity "CustomOshiro/FloatyOshiro" FloatyOshiro(
+  @mapdef Entity "BitsPieces.FloatyOshiro/FloatyOshiro" FloatyOshiro(
     x::Integer, y::Integer,
     speed::Number=1.0,
     flag::String="",

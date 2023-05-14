@@ -15,8 +15,8 @@ using Celeste.Mod;
 using Celeste.Mod.Entities;
 
 
-namespace Celeste.Mod.CustomOshiro {
-  [CustomEntity("CustomOshiro/FloatyOshiro")]
+namespace Celeste.Mod.BitsPieces.FloatyOshiro {
+  [CustomEntity("BitsPieces.FloatyOshiro/FloatyOshiro")]
   [TrackedAs(typeof(AngryOshiro))]
   class FloatyOshiro : AngryOshiro {
     public static void Load() {
