@@ -142,7 +142,6 @@ namespace Celeste.Mod.CustomOshiro {
 
     public void motionStart(float offset = 0f, bool instant = false, bool force = false) {
       if (this.running && !force) { return; }
-      Logger.Log(LogLevel.Info, "FloatyOshiro", $"motionStart");
 
       this.ratio = offset;
       this.running = true;
@@ -155,7 +154,6 @@ namespace Celeste.Mod.CustomOshiro {
 
     public void motionStop(bool instant = false, bool force = false) {
       if (!this.running && !force) { return; }
-      Logger.Log(LogLevel.Info, "FloatyOshiro", $"motionStop");
 
       this.running = false;
       this.fadeOut(instant: instant);
@@ -167,7 +165,6 @@ namespace Celeste.Mod.CustomOshiro {
 
     public void motionLoop(bool instant = false) {
       if (!this.running || fadeTween.Active) { return; }
-      Logger.Log(LogLevel.Info, "FloatyOshiro", $"motionLoop");
 
       this.fadeOut(instant: instant, restart: true);
 
@@ -177,20 +174,16 @@ namespace Celeste.Mod.CustomOshiro {
     }
 
     public void fadeIn(bool instant = false) {
-      Logger.Log(LogLevel.Info, "FloatyOshiro", $"fadein");
       this.Visible = true;
       this.Collidable = true;
 
       if (!instant) {
         this.fadeEased = 0f;
         this.fadeTween.OnComplete = (Tween t) => {
-          Logger.Log(LogLevel.Info, "FloatyOshiro", $"fadein complete");
         };
-        Logger.Log(LogLevel.Info, "FloatyOshiro", $"fadein start at: {this.fadeTween.Eased}");
         this.fadeTween.Start(reverse: false);
         this.fadeTween.Reset();
         this.fadeTween.Start(reverse: false);
-        Logger.Log(LogLevel.Info, "FloatyOshiro", $"fade stared: {this.fadeTween.Active} at: {this.fadeTween.Eased}, timeleft: {this.fadeTween.TimeLeft}, percent: {this.fadeTween.Percent}");
       } else {
         this.fadeTween.Stop();
         this.fadeEased = 1f;
@@ -198,7 +191,6 @@ namespace Celeste.Mod.CustomOshiro {
     }
 
     public void fadeOut(bool instant = false, bool restart = false) {
-      Logger.Log(LogLevel.Info, "FloatyOshiro", $"fadeout");
       this.Visible = true;
       this.Collidable = true;
 
@@ -208,7 +200,6 @@ namespace Celeste.Mod.CustomOshiro {
           this.Visible = false;
           this.Collidable = false;
 
-          Logger.Log(LogLevel.Info, "FloatyOshiro", $"fadeout complete");
           if (restart) {
             this.motionStart(instant: instant, force: true);
 
@@ -235,8 +226,6 @@ namespace Celeste.Mod.CustomOshiro {
       if (this.flag == null || this.fadeTween.Active || (Scene as Level)?.Session == null) {
         return;
       }
-      Logger.Log(LogLevel.Info, "FloatyOshiro", $"updated flags!");
-
 
       bool flag = (Scene as Level).Session.GetFlag(this.flag);
       if (flag && !this.running) {
@@ -286,7 +275,6 @@ namespace Celeste.Mod.CustomOshiro {
           self_o.CenterY = pos.Y;
 
           if (Engine.FrameCounter % (ulong) self_o.framesPerParticle == 0) {
-            // self_o.trailParticle.Acceleration = Vector2.Normalize(self_o.from - self_o.to) * self_o.speed * 0.125f;
             self_o.trailParticle.Direction = (self_o.from - self_o.to).MonocleAngle();
             (self_o.Scene as Level).Particles.Emit(
               type: self_o.trailParticle,
@@ -329,13 +317,6 @@ namespace Celeste.Mod.CustomOshiro {
         if ((1f - self_o.ratio) <= speed * self_o.fadeSpeed) {
           self_o.motionLoop();
         }
-
-        // float fadeDistance = norm / self_o.speed;
-        // float tiles = self_o.ratio * norm;
-
-        // float edgeTiles = ((norm / 2) - Math.Abs(tiles - (norm / 2)));
-        // if (edgeTiles)
-        Logger.Log(LogLevel.Info, "FloatyOshiro", $"fade stared: {self_o.fadeTween.Active} reverse: {self_o.fadeTween.Reverse} at: {self_o.fadeTween.Eased}");
 
         Color spriteColor = self_o.recolor;
         spriteColor = spriteColor * self_o.fadeEased;
