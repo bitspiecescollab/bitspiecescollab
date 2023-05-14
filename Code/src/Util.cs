@@ -31,7 +31,6 @@ namespace Celeste.Mod.BitsPieces {
       hex = hex.TrimStart('#');
       if (hex.Length < 6) {
         throw new IndexOutOfRangeException("Hex colors must contain at least 6 characters.");
-        return Color.White;
       }
 
       float r = (float)(Calc.HexToByte(hex[0]) * 16 + Calc.HexToByte(hex[1])) / 255f;
