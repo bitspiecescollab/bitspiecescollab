@@ -73,7 +73,6 @@ namespace Celeste.Mod.BitsPieces {
       ));
 
       this.fadeTween.OnUpdate = (Tween t) => {
-        Logger.Log(LogLevel.Info, "FloatyOshiro", $"tween = {t.Eased}/{t.Percent}, visible = {this.Visible}");
         // workaround for below Tween::OnComplete bug
         DynamicData.For(t).Set("Mode", Tween.TweenMode.Persist);
         this.fadeEased = t.Eased;
