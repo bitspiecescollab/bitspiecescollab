@@ -48,5 +48,9 @@ namespace Celeste.Mod.CustomOshiro {
     public static float MonocleAngle(this Vector2 vec) {
       return (float) ((Math.Atan2(vec.Y, vec.X) + (Math.PI * 2f)) % (Math.PI * 2f));
     }
+
+    public static Vector2 Perpendicular(this Vector2 vec) {
+      return Vector2.Normalize(new Vector2(vec.Y, -vec.X));
+    }
   }
 }
