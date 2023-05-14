@@ -24,3 +24,8 @@ release: clean
 	mkdir -p build
 	mcs ${LIB_PATH} ${LIBS} src/BitsPieces.cs -t:library -o:BitsPieces.dll -optimize
 	mv src/BitsPieces.dll build/BitsPieces.dll
+
+# This strips out code from reference assemblies so only the symbols are
+# present for linking.
+strip:
+	for file in ./lib/*.dll; do mono-cil-strip "$$file"; done
