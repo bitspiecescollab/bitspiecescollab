@@ -20,7 +20,7 @@ module BitsPieces.FloatyOshiro
   )
 
   const placements = Ahorn.PlacementDict(
-    "Floaty Oshiro (Custom Oshiro)" => Ahorn.EntityPlacement(
+    "Floaty Oshiro (Bits & Pieces)" => Ahorn.EntityPlacement(
       FloatyOshiro,
       "point",
       Dict{String, Any}(),
