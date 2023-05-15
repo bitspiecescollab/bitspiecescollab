@@ -31,4 +31,8 @@
   <decal path="bitspiecescollab/Pedestals/Icons/cumulus_heights/icon">
     <animationSpeed value="3"/>
   </decal>
+
+  <decal path="bitspiecescollab/Pedestals/Icons/boosteryeet/icon">
+    <animationSpeed value="3"/>
+  </decal>
 </decals>
