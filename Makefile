@@ -11,7 +11,7 @@ LIBS = -pkg:dotnet -r:MonoMod.Utils.dll -r:MonoMod.RuntimeDetour.dll \
 LIB_PATH = -lib:../../ -lib:./Code/lib/
 
 SOURCE=Code/src/*.cs
-BINARY=Code/build/BitsPieces.dll
+BINARY=Code/build/bitspieces.dll
 
 .PHONY: default clean debug release
 default: release
@@ -33,5 +33,5 @@ strip:
 	for file in Code/lib/*.dll; do mono-cil-strip "$$file"; done
 
 package: release
-	git archive --format=zip -9 -o BitsPiecesCollab.zip HEAD \
-	  --add-file Code/build/BitsPieces.dll
+	git archive --format=zip -9 -o bitspiecescollab.zip HEAD \
+	  --add-file Code/build/bitspieces.dll
