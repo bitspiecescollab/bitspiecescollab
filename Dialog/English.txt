@@ -127,7 +127,7 @@ bitspiecescollab_2_Intermediate_Ghost_House_SMW_author=by Zen
 bitspiecescollab_2_Intermediate_Ghost_House_SMW_collabcredits=
 Map by Zen
 Deco by Zen
-Playtesting by Evilcat & Bit & ZKB & Zen
+Playtesting by Evilcat, bit, ZKB, Zen
 "Hell nawh I got a Paranormal Parking Ticket"
 bitspiecescollab_2_Intermediate_Ghost_House_SMW_collabcreditstags=
 Spring-Cancels
@@ -169,7 +169,7 @@ bitspiecescollab_2_Intermediate_Bug_Bubbles=Bug Bubbles
 bitspiecescollab_2_Intermediate_Bug_Bubbles_author=by Zen
 bitspiecescollab_2_Intermediate_Bug_Bubbles_collabcredits=
 Map & Decor by Zen
-Playtesting by bit
+Playtesting by Evilcat, bit
 bitspiecescollab_2_Intermediate_Bug_Bubbles_collabcreditstags=
 Buggy
 Dream Boosters
@@ -373,7 +373,7 @@ bitspiecescollab_3_Expert_UltraLadder_author=by ArvingoPro
 bitspiecescollab_3_Expert_UltraLadder_collabcredits=
 Map by ArvingoPro
 Deco by paulio
-Playtesting by arti, St-Va1, aquarye
+Playtesting by arti, St-Va1, Evilcat, aquarye
 bitspiecescollab_3_Expert_UltraLadder_collabcreditstags=
 Ultradashing
 ???
