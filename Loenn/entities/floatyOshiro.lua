@@ -5,7 +5,7 @@ return {
   nodeLineRenderType = "line",
   nodeLimits = {2, 2},
   placements = {
-    name = "entity",
+    name = "Floaty Oshiro",
     data = {
       speed = 1.0,
       flag = "",
