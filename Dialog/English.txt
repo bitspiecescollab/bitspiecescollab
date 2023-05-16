@@ -12,6 +12,11 @@ bitspiecescollab_0_Lobbies_3_Expert_journal=Expert Maps
 
 shitsandpiecescollab_PARKING_TICKET= Average Madeline L
 
+shitsandpiecescollab_Ghost_Crystaline_is_bad_A=
+"No not losee him, nor throw him carelessly across the room, he may be small, but he is important."
+[MADELINE left angry]
+What does it mean??
+
 # Gyms
 
 bitspiecescollab_0_Gyms_gym=Gym
