@@ -81,7 +81,7 @@ namespace Celeste.Mod.BitsPieces {
       this.wobbleSpeed = data.Float("wobbleSpeed", 0.75f);
       this.wobbleAmplitude = data.Float("wobbleAmplitude", 3f * 8);
       base.Add(this.wobbleTween = Tween.Create(
-        Tween.TweenMode.Looping, Ease.SineInOut, this.wobbleSpeed
+        Tween.TweenMode.YoyoLooping, Ease.SineInOut, this.wobbleSpeed
       ));
       this.wobbleTween.Start();
 
