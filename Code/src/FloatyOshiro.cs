@@ -57,8 +57,10 @@ namespace Celeste.Mod.BitsPieces {
     public FloatyOshiro(EntityData data, Vector2 offset, EntityID id) : base(data, offset) {
       DynamicData dd = DynamicData.For(this);
 
+      Vector2 pos = data.Position + offset;
       this.from = data.Nodes[0] + offset;
       this.to = data.Nodes[1] + offset;
+
       this.recolor = data.Attr("recolor", "#FFFFFFFF").HexToColor();
 
       this.speed = data.Float("speed", 1.0f) * 8f;
@@ -85,12 +87,12 @@ namespace Celeste.Mod.BitsPieces {
       ));
       this.wobbleTween.Start();
 
-      this.ratio = (data.Position - this.from).Length() / (this.to - this.from).Length();
+      this.ratio = (pos - this.from).Length() / (this.to - this.from).Length();
       this.ratio = this.ratio.Clamp(0f, 1f);
 
-      Vector2 pos = this.computePos();
-      base.CenterX = pos.X;
-      base.CenterY = pos.Y;
+      Vector2 newPos = this.computePos();
+      base.CenterX = newPos.X;
+      base.CenterY = newPos.Y;
 
       this.Collider = new Circle(data.Float("hitboxRadius", 14.0f), 0f, 0f);
       base.Collider.Position = new Vector2(0f, 0f);
