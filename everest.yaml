@@ -11,13 +11,11 @@
 # Time_Tower: MaxHelpingHand, CommunalHelper, CrystallineHelper, FemtoHelper
 # Lunar Grotto: ExtendedVariants, FlaglinesAndSuch, MaxHelpingHand, DJMapHelper
 # Triplicated: MoreDasheline, Sardine7 (Helper???), FrostHelper, AdventureHelper
+# PuzzlePieces: MaxHelpingHand, BrokemiaHelper, CherryHelper, FrostHelper, CommunalHelper
 # todo: replace with ExtendedVariants
 
-# Beginner maps
+# BlueMoon: PandorasBox, FrostHelper, IsaGrabBag
 # MyraidNebulae: GravityHelper, CommunalHelper, MaxHelpingHand, SorbetHelper
-
-
-# Intermediate maps
 # Ciudad: JungleHelper, XaphanHelper, SorbetHelper, EmHelper, OutbackHelper, MaxHelpingHand
 # CycleBattle: none (well CollabUtils2 but shut)
 # FeatherFever: DJMapHelper, LunaticHelper, CommunalHelper
@@ -25,19 +23,14 @@
 # StormyCity: FrostHelper, MaxHelpingHand
 # Path_of_The_Stars: ShroomHelper, FrostHelper, ContortHelper, PandorasBox, MaxHelpingHand
 
-# Advanced maps
 # boosteryeet: MaxHelpingHand, FlaglinesAndSuch, DJMapHelper, CommunalHelper, LunaticHelper, FactoryHelper, SafeRespawnCrumble, ShroomHelper, VivHelper, CherryHelper, Anonhelper
-# PuzzlePieces: MaxHelpingHand, BrokemiaHelper, CherryHelper, FrostHelper, CommunalHelper
-
-# Expert maps
 # CyberSpace: MaxHelpingHand, ContortHelper, FrostHelper, CommunalHelper, PandorasBox, ShroomHelper
 # UltraLadder: IsaGrabBag
 # MythrilMine: FrostHelper
-
-# Grandmaster maps
 # Flying Fortress: FrostHelper, VivHelper, CommunalHelper, ExtendedVariantMode, MaxHelpingHand, BrokemiaHelper, LunaticHelper, VortexHelper, ContortHelper
 # Spacious_Acceleration: VivHelper, Anonhelper, PandorasBox, CommunalHelper, ExtendedVariantMode, DJMapHelper
 # DemoTemple: MaxHelpingHand, BrokemiaHelper, FrostHelper, OutbackHelper, YetAnotherHelper, GravityHelper, NerdHelper, SorbetHelper, CommunalHelper, JungleHelper
+
 
 - Name: bitspiecescollab
   Version: 1.0.0
