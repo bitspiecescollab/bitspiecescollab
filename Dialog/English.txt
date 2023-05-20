@@ -317,17 +317,21 @@ bitspiecescollab_3_Expert_boosteryeet_b2_how=
 [madeline left normal]
 How did I get here lol
 bitspiecescollab_3_Expert_boosteryeet_b2_sus=
+{anchor bottom}
 [theo left normal]
-Holy shit {+MADELINE} is that a fucking among us reference
+Holy shit {+MADELINE} is that a{n}fucking {~}among us reference{/~}
 [madeline right panic]
-noooooooooooooooo {+THEO}
+{>> 0.5}noooooooooooooooo {+THEO}{>>}
 [theo left thinking]
 hehe
 [theo left normal]
-sus
+{0.75}sus
 [madeline right panic]
-getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead {>> 1.25}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAA{>>}
+[theo left serious]
+You should really go get some therapy for that sus aversion someday soon you know
+[madeline right panic]
+{>> 1.25}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa{n}aaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAA{n}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA{>>}
 
 # bitspiecescollab_3_Expert_space_jam_on_toast=Space Jam with Toast
 # bitspiecescollab_3_Expert_space_jam_on_toast_author=by bit
