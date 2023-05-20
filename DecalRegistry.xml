@@ -35,4 +35,19 @@
   <decal path="bitspiecescollab/Pedestals/Icons/boosteryeet/icon">
     <animationSpeed value="3"/>
   </decal>
+
+  <decal path="bitspiecescollab/cumulus_heights/clouds/cloud*">
+    <parallax amount="0.05" />
+    <scale multiplyX="1.0526316" multiplyY="1.0526316" />
+  </decal>
+
+  <decal path="bitspiecescollab/cumulus_heights/clouds_bg/cloud*">
+    <parallax amount="-0.1" />
+    <scale multiplyX="0.90909091" multiplyY="0.90909091" />
+  </decal>
+
+  <decal path="bitspiecescollab/cumulus_heights/clouds_fg/cloud*">
+    <parallax amount="0.3" />
+    <scale multiplyX="1.4285714" multiplyY="1.4285714" />
+  </decal>
 </decals>
