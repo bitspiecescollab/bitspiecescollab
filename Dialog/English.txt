@@ -132,7 +132,7 @@ bitspiecescollab_2_Intermediate_Ghost_House_SMW_author=by Zen
 bitspiecescollab_2_Intermediate_Ghost_House_SMW_collabcredits=
 Map by Zen
 Deco by Zen
-Playtesting by Evilcat, bit, ZKB, Zen
+Playtesting by DeDuMeNu, Evilcat, bit, ZKB
 "Hell nawh I got a Paranormal Parking Ticket"
 bitspiecescollab_2_Intermediate_Ghost_House_SMW_collabcreditstags=
 Spring-Cancels
@@ -157,7 +157,7 @@ bitspiecescollab_2_Intermediate_MyriadNebulae_author=by TheGamingLlama
 bitspiecescollab_2_Intermediate_MyriadNebulae_collabcredits=
 Map by TheGamingLlama
 Decor by Zen
-Playtesting by ethio, arti, St-Va1
+Playtesting by ethio, arti, St-Va1, bit
 bitspiecescollab_2_Intermediate_MyriadNebulae_collabcreditstags=
 Dream jump
 
@@ -305,8 +305,8 @@ bitspiecescollab_3_Expert_boosteryeet=Bubble Yeet
 bitspiecescollab_3_Expert_boosteryeet_author=by bit
 bitspiecescollab_3_Expert_boosteryeet_collabcredits=
 Map by bit
-Playtesting by Guynamedpie, arti,
-paulio, St-Val1
+Playtesting by DeDuMeNu, Guynamedpie,
+arti, paulio, St-Val1
 bitspiecescollab_3_Expert_boosteryeet_collabcreditstags=
 Mid-air supers
 Reverse dashing
@@ -359,7 +359,7 @@ bitspiecescollab_3_Expert_MythrilMine_author=by Jess
 bitspiecescollab_3_Expert_MythrilMine_collabcredits=
 Map by Jess
 Decor by ???
-Playtesting by bit, Anilate
+Playtesting by DeDuMeNu, bit, Anilate
 bitspiecescollab_3_Expert_MythrilMine_collabcreditstags=
 Dream hypers
 Hyper bunnyhops
