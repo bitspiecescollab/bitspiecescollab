@@ -325,13 +325,13 @@ Holy shit {+MADELINE} is that a{n}fucking {~}among us reference{/~}
 [theo left thinking]
 hehe
 [theo left normal]
-{0.75}sus
+{0.75}{big}sus{/big}
 [madeline right panic]
 getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead getoutofmyhead {>> 1.25}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAA{>>}
 [theo left serious]
 You should really go get some therapy for that sus aversion someday soon you know
 [madeline right panic]
-{>> 1.25}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa{n}aaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAA{n}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA{>>}
+you said {~}it{/~} again {0.5}{>> 1.25}aaaaaaaaaaaaaaaaaaaaahhhhhhh{n}aaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAA{n}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA{>>}
 
 # bitspiecescollab_3_Expert_space_jam_on_toast=Space Jam with Toast
 # bitspiecescollab_3_Expert_space_jam_on_toast_author=by bit
