@@ -10,4 +10,16 @@
 
     <Loop id="idle_normal" path="normal" delay="0.1" frames="0"/>
   </portrait_birb>
+
+  <portrait_cereal path="bitspiecescollab/cereal/" sfx="theo" textbox="default">
+    <Center />
+
+    <sfxs>
+      <hewillnever index="1"/>
+      <wtf index="2"/>
+    </sfxs>
+
+    <Loop id="idle_hewillnever" path="hewillnever" delay="0.1" frames="0"/>
+    <Loop id="idle_wtf" path="wtf" delay="0.1" frames="0"/>
+  </portrait_cereal>
 </Sprites>
