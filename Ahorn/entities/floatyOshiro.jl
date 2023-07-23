@@ -16,6 +16,7 @@ module BitsPiecesFloatyOshiro
     wobbleSpeed::Number=2.0,
     wobbleAmplitude::Number=3.0,
     enabled::Bool=true,
+    flagResets::Bool=true,
     noLighting::Bool=false
   )
 
